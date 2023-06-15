@@ -1,0 +1,837 @@
+,id,rating,city,name,preferences
+2,2,4.5,Kota Jakarta Barat,Pantai Sentosa Seafood Market,makanan pedas tempat_makan
+12,12,4.5,Kota Jakarta Barat,John & James Green Lake City,makanan_jepang
+30,30,4.4,Kota Jakarta Selatan,PARC 19,fasilitas hiburan malam_hari musik
+31,31,4.0,Kota Jakarta Selatan,Pasar Ikan Pasir 7,daging makanan pedas tempat_makan
+44,44,4.5,Kota Jakarta Utara,Kampung Kecil Kosambi,aktivitas_air makanan tempat_makan tempat_wisata
+51,51,4.2,Kota Jakarta Selatan,Kampung Kemang,fasilitas kuliner lokasi malam_hari minuman musik relaksasi sepeda_motor
+52,52,4.2,Kabupaten Gunung Kidul,Ayam Goreng Pak Parman,daging fasilitas lokasi makanan
+55,55,4.6,Kabupaten Gunung Kidul,DP Cafe,alam lokasi outdoor pantai pemandangan_alam tempat_bermain tempat_wisata
+61,61,4.3,Kota Yogyakarta,Cimoll Resto Timoho,kuliner makanan pertemuan tempat_makan
+65,65,4.7,Kabupaten Bantul,Angkringan Kulon Omah,fasilitas makanan outdoor pedas pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+66,66,4.3,Kota Jakarta Pusat,Ikan Bakar Manado,makanan tempat_makan
+88,88,4.5,Kota Jakarta Pusat,Gado-Gado Cemara (Sejak 1947),fasilitas
+89,89,4.2,Kota Jakarta Pusat,Kedai Zainal Fanani 1967 Kebon Kacang,fasilitas makanan tempat_makan
+97,97,4.5,Kota Jakarta Pusat,Taman Kuliner Abdul Muis,tempat_makan
+98,98,4.6,Kota Jakarta Selatan,NUSA Indonesian Gastronomy,fasilitas minuman pelayanan rumah
+99,99,4.5,Kabupaten Gunung Kidul,Taman Kuliner Wonosari,kenyamanan relaksasi
+100,100,4.1,Kota Jakarta Pusat,Soto Betawi H. Ma'ruf,fasilitas makanan tempat_makan
+106,106,4.3,Kabupaten Kulon Progo,KAMPOENG MENOREH,estetik lokasi makanan_tradisional minuman pemandangan pemandangan_alam pemandangan_indah ramah_anak tempat_wisata tradisional
+117,117,4.7,Kota Jakarta Timur,Rumah Makan Cinla,makanan
+120,120,4.3,Kota Yogyakarta,Bakmi Jowo Mbah Gito,bersejarah pemandangan_indah tempat_wisata tradisional
+121,121,4.4,Kota Yogyakarta,Rumah Makan Mbah Buyut,fasilitas makanan tempat_makan
+123,123,4.4,Kota Yogyakarta,Gado Gado Bu Hadi,kuliner makanan makanan_hari
+124,124,4.3,Kota Yogyakarta,Rumah Makan Rata-Rata BUGISAN,edukasi fasilitas makanan tempat_makan
+126,126,4.2,Kota Yogyakarta,Bedhot Resto,makanan tempat_makan
+132,132,4.7,Kota Yogyakarta,Nasi Goreng Kambing Kota Baru,daging fasilitas kemah kuliner makanan
+133,133,4.5,Kota Yogyakarta,Kedai Lur,minuman
+139,139,4.6,Kota Yogyakarta,Water castle cafe,bersejarah budaya fasilitas rumah tempat_bersejarah tempat_wisata
+141,141,4.3,Kota Yogyakarta,Kuliner Lesehan Malioboro,daging makanan malam_hari tempat_makan
+143,143,4.6,Kota Jakarta Barat,Bakmie Carina,daging makanan tempat_makan
+145,145,4.3,Kota Yogyakarta,GOEBOEG BAMBOE,bersejarah edukasi fasilitas makanan malam_hari pelayanan pertemuan relaksasi tempat_ibadah tempat_wisata
+147,147,4.3,Kota Yogyakarta,Madam Tan Indonesian Food,makanan pertemuan tempat_makan
+148,148,4.4,Kota Yogyakarta,RM. Duta Minang Gowongan,kuliner makanan tempat_makan
+149,149,4.6,Kota Yogyakarta,Warung Pojok Mbak Yuni,kemah tempat_ibadah
+150,150,4.7,Kota Yogyakarta,Ikan Bakar Legian khas Bali,makanan tempat_makan
+152,152,4.5,Kota Yogyakarta,Warung Heru,hiburan kuliner makanan makanan_tradisional musik tempat_makan
+153,153,4.2,Kota Yogyakarta,Kuliner Gudeg Pecel Pasar Beringharjo Bu Yamtini,makanan tempat_makan
+155,155,4.2,Kota Yogyakarta,Den Nany Resto,fasilitas indoor kegiatan_rekreasi outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata
+159,159,4.7,Kota Yogyakarta,Nanamia Pizzeria,kenyamanan ramah_anak ramah_anak_anak rekreasi
+160,160,4.3,Kota Yogyakarta,Lotek & Gado-Gado Bu Bagyo Bantul (Pindahan Tamsis),kuliner makanan makanan_hari tempat_makan
+163,163,4.4,Kota Yogyakarta,Mie Ayam Kamehame,makanan makanan_tradisional pedas tempat_makan
+164,164,4.4,Kota Yogyakarta,Rumah Makan Padang Minang Ria - Yogyakarta,daging fasilitas lokasi makanan tempat_makan
+165,165,4.6,Kota Yogyakarta,Moerni 78,minuman
+166,166,4.0,Kota Yogyakarta,Toegoe Resto,tempat_makan tempat_ngumpul transportasi
+170,170,4.4,Kota Yogyakarta,Gudeg Lesehan Bu Sastro,kuliner makanan malam_hari tempat_makan
+173,173,4.7,Kota Jakarta Selatan,Bakmi Bangka Priska,makanan tempat_makan
+175,175,4.5,Kota Yogyakarta,Soto Ayam Lenthok Pak Gareng,makanan malam_hari musik pagi_hari tempat_makan
+176,176,4.3,Kota Yogyakarta,Lesehan Sayidan,kenyamanan makanan outdoor pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+179,179,4.5,Kota Yogyakarta,Kalluna - Instagrammable Restaurant & Meeting Room,estetik foto fotogenik relaksasi tempat_makan tempat_ngumpul
+180,180,4.4,Kota Yogyakarta,Es Teler Soekonandi,makanan relaksasi tempat_makan
+182,182,4.5,Kota Yogyakarta,Shabu Auce,makanan tempat_makan
+184,184,4.5,Kota Yogyakarta,Six Senses Restaurant,alam estetik pemandangan_indah tempat_wisata
+188,188,4.3,Kota Yogyakarta,Lotek dan Gado-Gado Teteg Lempuyangan,hemat_biaya makanan
+189,189,4.5,Kota Yogyakarta,Waroeng Klangenan,makanan tempat_makan
+190,190,4.5,Kota Yogyakarta,Mie Ayam Bu Tumini Sari Rasa Jati Ayu,makanan
+195,195,4.3,Kabupaten Kulon Progo,JOGLO SAERAH RESTO,fasilitas outdoor pelayanan pemandangan pemandangan_alam pertemuan tempat_bermain tempat_makan tempat_wisata
+198,198,4.4,Kota Yogyakarta,Warung Bu Ageng,makanan makanan_tradisional tempat_makan tradisional
+200,200,4.2,Kota Yogyakarta,Pondok Cabe Bistro Simanjuntak,edukasi makanan tempat_makan
+203,203,4.5,Kota Yogyakarta,Ikan Bakar Bu Bambang,daging makanan pedas tempat_makan
+204,204,4.6,Kota Yogyakarta,Warung Santai seafood Ayara,hemat_biaya kuliner makanan pedas tempat_makan
+206,206,4.4,Kota Yogyakarta,Rumah Makan Ajam Goreng Lombok Idjo,fasilitas pedas pelayanan ramah_anak tempat_makan
+208,208,4.4,Kota Yogyakarta,Warung Makan Prigel Asih,makanan tempat_makan
+211,211,4.4,Kota Yogyakarta,Sop Ayam Pak Min Klaten,daging kebersihan lokasi makanan pagi_hari
+215,215,4.2,Kota Yogyakarta,Blengerr Chinese Food Super,fasilitas halal makanan pelayanan tempat_makan
+216,216,4.2,Kota Yogyakarta,Lesehan Aldan,edukasi kuliner makanan pelayanan tempat_makan
+218,218,4.3,Kota Yogyakarta,Sate Klathak dan Bakmi Jowo Pak Jede,daging kuliner makanan tempat_makan
+219,219,4.5,Kota Yogyakarta,Mie Ayam dan Bakso Idolaku Pak Tikno,fasilitas
+221,221,4.4,Kota Yogyakarta,Secret Garden Coffee and Chocolate,estetik foto fotogenik malam_hari musik
+223,223,4.6,Kota Jakarta Selatan,Mie Ayam Dedy Rasa Spesial,fasilitas makanan tempat_makan
+225,225,3.8,Kota Yogyakarta,Oseng-oseng Mercon Bu Narti,pedas tempat_makan
+226,226,4.3,Kota Yogyakarta,Sate Kambing Asli Tambaksegaran Yogyakarta,daging makanan tempat_makan
+227,227,4.3,Kota Yogyakarta,"Bakmi Shibisu "" JOWO "" Asli AYAM KAMPUNG",kuliner malam_hari
+231,231,4.4,Kota Yogyakarta,Nasi Teri Pojok Gejayan,edukasi makanan tempat_makan
+234,234,4.4,Kota Yogyakarta,Gudeg Yu Narni Tugu,indoor kuliner makanan pagi_hari rumah_makan tempat_makan
+235,235,4.6,Kota Yogyakarta,Dapur EL,daging kuliner makanan pedas tempat_makan
+236,236,4.5,Kota Yogyakarta,Tengkleng Bhenjoyo Mantrijeron,makanan tempat_makan
+238,238,4.4,Kota Yogyakarta,Bale Bebakaran Umbulharjo,edukasi kenyamanan makanan relaksasi tempat_makan
+239,239,4.5,Kota Yogyakarta,Seafood Pak Purwanto,edukasi hemat_biaya makanan
+243,243,4.5,Kota Yogyakarta,Sego Koyor Bu Parman,makanan pedas tempat_makan
+244,244,4.2,Kota Yogyakarta,Angkringan Pak Jabrik,tempat_makan
+246,246,4.4,Kota Yogyakarta,Kedai Darling,indoor makanan makanan_western ramah_anak tempat_makan
+250,250,4.2,Kota Yogyakarta,Oseng Mercon Mas Toni,hemat_biaya makanan pedas tempat_makan
+251,251,4.7,Kota Yogyakarta,Gudeg Sagan,kuliner makanan rumah_makan tempat_makan
+252,252,4.4,Kota Yogyakarta,Sop Merah,pedas tempat_makan
+255,255,4.5,Kota Yogyakarta,Gubug Makan Mang Engking Soragan Castle,aktivitas_air estetik fasilitas foto fotogenik makanan pelayanan tempat_wisata
+257,257,4.5,Kota Yogyakarta,Ayam Panggang 3 Berku,daging makanan tempat_makan
+258,258,4.3,Kota Yogyakarta,Soto Sampah,edukasi tempat_makan
+261,261,4.2,Kota Yogyakarta,Bakso Mangkok Beranak Jogja,fasilitas lokasi minuman musik tempat_makan
+262,262,4.3,Kota Yogyakarta,Warung Burjo Sundawa,edukasi fasilitas makanan pelayanan tempat_makan
+264,264,4.5,Kota Yogyakarta,Warung Makan Bu Broto,fasilitas kuliner makanan makanan_hari tempat_makan
+266,266,4.4,Kota Yogyakarta,Easy Garden Restaurant & Cafe,hiburan makanan makanan_western musik
+267,267,3.9,Kota Yogyakarta,Sate Klatak Kambing Muda Pak Tong,daging makanan tempat_makan
+268,268,4.6,Kota Yogyakarta,Kuliner Lor Tugu,hemat_biaya malam_hari musik tempat_makan
+269,269,4.6,Kota Yogyakarta,Warung Makan Sop Empal Bu Wignyo,edukasi makanan pedas sepeda_motor tempat_makan
+270,270,4.4,Kota Yogyakarta,Nikkou Ramen,edukasi sepeda_motor
+272,272,4.4,Kota Yogyakarta,Banyu Mili Resto,aktivitas_air kenyamanan makanan rekreasi relaksasi tempat_bermain tempat_main tempat_makan tempat_wisata
+273,273,4.4,Kota Yogyakarta,Waroeng Spesial Sambal SS Plengkung Gading,edukasi fasilitas kuliner makanan pelayanan tempat_makan
+274,274,4.5,Kota Yogyakarta,Bale Raos - The Sultan's Dishes,bersejarah budaya makanan_tradisional tradisional
+309,309,4.7,Kota Jakarta Barat,Mie Kangkung Jimmy,kuliner makanan tempat_makan
+317,317,4.5,Kota Yogyakarta,Waroeng Steak & Shake Cokroaminoto,edukasi fasilitas kenyamanan pelayanan smoking tempat_ibadah
+324,324,4.5,Kabupaten Gunung Kidul,Omah Kayu Wonosari,alam estetik fasilitas kegiatan_rekreasi pelayanan pemandangan_indah pertemuan relaksasi tempat_makan tempat_wisata
+332,332,4.7,Kabupaten Kulon Progo,Kedai Makan Bu Samini,makanan
+337,337,4.3,Kabupaten Bantul,Mangut Lele Bu Is,makanan tempat_makan
+358,358,4.5,Kabupaten Kulon Progo,Kopi Ingkar Janji,lokasi makanan outdoor pemandangan pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+391,391,4.5,Kota Jakarta Timur,Alsadda Restaurant,smoking tempat_makan
+398,398,4.5,Kota Jakarta Timur,Ayam Bakar Dan Iga Bakar Ce Euis,makanan
+406,406,4.4,Kota Jakarta Timur,Ayam Goreng Fatmawati,kuliner lokasi makanan makanan_hari pedas tempat_makan
+407,407,4.5,Kota Jakarta Timur,Ayam Goreng Ibu Haji,daging makanan pedas tempat_makan
+415,415,4.2,Kota Jakarta Timur,Ayam Kriwil,kenyamanan makanan pedas tempat_makan
+429,429,4.5,Kota Jakarta Timur,Bakmi Berdikari,fasilitas kenyamanan makanan ramah_anak tempat_makan
+430,430,4.6,Kota Jakarta Timur,Bakmi Bintang Gloria,daging fasilitas makanan sepeda_motor
+431,431,4.2,Kota Jakarta Timur,Bakmi Du - Wit,fasilitas makanan minuman pagi_hari pedas
+432,432,4.5,Kota Jakarta Timur,Bakmi Golek,fasilitas makanan pelayanan tempat_makan
+434,434,4.5,Kota Jakarta Timur,Bakso Bakwan Malang dan Nasi Rawon M. Suyudi,makanan tempat_makan
+436,436,4.2,Kota Jakarta Timur,Bale Bengong Seafood Resto,aktivitas_air fasilitas makanan relaksasi tempat_makan tempat_wisata
+437,437,4.6,Kota Jakarta Timur,Rumah Makan Betawi H. Abu,fasilitas kuliner makanan makanan_hari tempat_makan
+438,438,4.6,Kota Jakarta Timur,Bebek Gantung 10 BKT,makanan pedas tempat_makan
+440,440,4.7,Kota Jakarta Timur,Bebek Kaleyo Balai Pustaka,fasilitas pedas smoking tempat_makan
+441,441,4.2,Kota Jakarta Timur,Bebek Rica-Rica - Taman Kuliner,hemat_biaya malam_hari musik ramah_anak smoking
+442,442,4.4,Kota Jakarta Timur,Bebek Sakera Reborn,makanan pedas
+444,444,4.5,Kabupaten Bantul,Omah Ingkung Cepit Pendowoharjo,daging makanan pedas tempat_makan
+448,448,4.6,Kota Jakarta Timur,Burger king,fasilitas kenyamanan lokasi pelayanan
+450,450,4.2,Kota Jakarta Timur,Cahaya Timur Rumah Makan,fasilitas halal kuliner makanan tempat_makan
+451,451,4.4,Kota Jakarta Timur,Confest Resto,fasilitas lokasi malam_hari musik pertemuan relaksasi
+454,454,4.4,Kota Jakarta Selatan,Dim Sum Inc,fasilitas makanan malam_hari musik smoking tempat_makan
+459,459,4.5,Kabupaten Sleman,Omah Tombo Kangen,edukasi fasilitas hemat_biaya malam_hari pelayanan ramah_anak
+483,483,4.8,Kabupaten Sleman,Buburnesia,makanan
+496,496,4.9,Kota Jakarta Barat,WARUNG MAKAN LESEHAN BUNDA ( DEWI ),tempat_makan
+504,504,3.4,Kota Jakarta Timur,gokana,fasilitas pelayanan
+508,508,4.3,Kota Jakarta Timur,Gubhida korean BBQ,fasilitas makanan pelayanan sepeda_motor tempat_makan
+511,511,4.2,Kota Jakarta Pusat,Fish & Cheap Thamrin City,makanan minuman pedas tempat_makan
+521,521,4.6,Kota Jakarta Timur,Hakuna Matata Jakarta,estetik foto fotogenik ramah_anak ramah_anak_anak rekreasi sepeda_motor smoking tempat_makan tempat_ngumpul
+538,538,4.4,Kota Jakarta Timur,"Ibu Bandung, Masakan Khas Sunda",daging makanan pedas tempat_makan
+548,548,4.1,Kota Jakarta Timur,Ikan Bakar Banyuwangi,hiburan lokasi makanan musik ramah_anak tempat_makan
+549,549,4.5,Kota Jakarta Timur,Quiznos Rawamangun,fasilitas
+565,565,3.9,Kota Jakarta Timur,Imperial Kitchen & Dimsum,fasilitas halal indoor kuliner makanan pelayanan tempat_makan
+567,567,2.8,Kota Jakarta Barat,Gokana Ramen & Teppan,fasilitas pelayanan
+568,568,4.3,Kota Jakarta Barat,Harum Segar,makanan tempat_makan
+571,571,4.6,Kabupaten Gunung Kidul,Pawon Purba dan Homestay,lokasi outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata
+584,584,4.4,Kota Jakarta Barat,Ayam Bakar Bakekok,fasilitas lokasi pedas pelayanan tempat_makan
+600,600,4.9,Kota Jakarta Barat,Rumah Makan Khas Madura Cak Wildan,makanan tempat_makan
+601,601,4.6,Kota Jakarta Timur,Kepiting Nyinyir,alam estetik fasilitas makanan pelayanan pemandangan_indah tempat_makan tempat_wisata
+612,612,4.6,Kota Jakarta Timur,Koka Sikka Se'i Sapi Rawamangun,pedas tempat_makan
+622,622,4.6,Kota Jakarta Timur,Restaurant & Seafood 99,ramah_anak
+631,631,4.5,Kabupaten Sleman,Tengkleng Gajah Jogja,makanan outdoor pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+632,632,4.4,Kota Jakarta Selatan,Bebek Kepahiang Babase BKB - Mampang,makanan pedas tempat_makan
+636,636,4.4,Kota Jakarta Barat,Restoran Warung Kelapa (Waroeng Kelapa),daging makanan tempat_makan
+639,639,4.5,Kota Jakarta Barat,Dinobites Cafe,estetik fasilitas foto fotogenik makanan makanan_western
+641,641,4.6,Kota Jakarta Pusat,Bungarampai restaurant,kegiatan_rekreasi minuman pertemuan rumah
+642,642,4.4,Kota Jakarta Timur,Kuliner Medan Julia,fasilitas halal makanan tempat_makan
+645,645,4.4,Kota Jakarta Barat,Saung Greenville,makanan tempat_makan
+648,648,4.5,Kota Jakarta Barat,Rumah Makan Sinar Minang,daging kuliner makanan makanan_hari
+649,649,4.5,Kota Jakarta Barat,Soto Betawi Nyonya Afung Greenville,fasilitas
+653,653,4.2,Kabupaten Kulon Progo,Warung Al-Dan,fasilitas lokasi pedas pelayanan tempat_makan
+654,654,4.4,Kota Jakarta Barat,Central,bersejarah kegiatan_rekreasi kenyamanan makanan pertemuan tempat_makan tempat_wisata
+657,657,4.5,Kabupaten Sleman,Warung Inyong,edukasi outdoor pemandangan_alam pertemuan tempat_bermain
+658,658,4.3,Kota Yogyakarta,Seafood Jogja SAE,makanan tempat_makan
+659,659,4.1,Kota Jakarta Timur,Lesehan Gurame,fasilitas lokasi makanan minuman ramah_anak tempat_makan
+660,660,4.4,Kota Jakarta Barat,Bale Dahar,makanan makanan_tradisional tempat_makan tradisional
+662,662,4.4,Kota Jakarta Barat,Bakmi Ayam Acang,daging kebersihan makanan
+666,666,4.1,Kota Jakarta Barat,Cafe Strawberry,fasilitas kebersihan kegiatan_rekreasi ramah_anak tempat_main
+668,668,4.5,Kota Jakarta Barat,Mr. Robak Tanjung Duren,edukasi fasilitas lokasi makanan malam_hari ramah_anak sepeda_motor smoking tempat_makan
+669,669,4.2,Kabupaten Gunung Kidul,Resto Indrayanti GK Yogyakarta Indonesia,estetik makanan outdoor pantai pemandangan pemandangan_alam pemandangan_indah tempat_bermain tempat_makan tempat_wisata
+672,672,4.3,Kota Jakarta Timur,LESEHAN ISAKUIKI,daging fasilitas kuliner makanan pedas rumah tempat_makan
+673,673,4.5,Kabupaten Sleman,Rumah Makan Flamboyan,edukasi makanan tempat_makan
+674,674,4.3,Kota Jakarta Barat,Fish Streat Tanjung Duren,lokasi makanan tempat_makan
+676,676,4.5,Kota Jakarta Barat,Ninety Nine Pesanggrahan,hiburan makanan musik pertemuan rumah_makan smoking
+679,679,4.4,Kota Jakarta Barat,Ayam Bakar Kambal,fasilitas makanan pedas tempat_makan
+680,680,4.7,Kota Jakarta Utara,Pecel Lele Cahaya Malam,fasilitas makanan pedas tempat_makan
+681,681,4.6,Kota Jakarta Barat,Bubur Kacang Hijau Garuda,fasilitas makanan makanan_hari pagi_hari pedas tempat_makan
+682,682,4.5,Kota Jakarta Barat,Saoenk Kito Susilo,aktivitas_air fasilitas kenyamanan makanan musik smoking tempat_makan tempat_wisata
+683,683,4.6,Kota Jakarta Barat,B'Steak Grill & Pancake Greenville,pertemuan
+685,685,4.5,Kota Jakarta Pusat,Dapur Babah Elite,bersejarah indoor kuliner tempat_bersejarah tempat_wisata
+689,689,4.4,Kabupaten Sleman,Baleroso Resto Kaliurang,kenyamanan kuliner makanan tempat_makan
+693,693,4.9,Kabupaten Sleman,Rumah Makan Padang Ampera Kharisma (Masakan Padang),makanan makanan_tradisional ramah_anak tempat_makan
+696,696,4.4,Kota Jakarta Barat,Waroeng Sunda,indoor makanan malam_hari musik pertemuan tempat_makan
+697,697,4.3,Kota Jakarta Barat,Kampung Makan,kenyamanan ramah_anak
+700,700,4.4,Kota Jakarta Selatan,Dragon Flames Restaurant,fasilitas smoking tempat_makan
+706,706,4.5,Kota Jakarta Barat,Pempek Palembang Awan,makanan
+707,707,4.5,Kota Jakarta Timur,Makan Bakso,makanan tempat_makan
+708,708,4.5,Kota Jakarta Barat,RM Simpang Raya - Daan Mogot,daging fasilitas makanan smoking
+709,709,4.1,Kota Jakarta Barat,19th Avenue,fasilitas ramah_anak smoking
+719,719,4.4,Kabupaten Sleman,Ikan Bakar Jimbaran,fasilitas kuliner lokasi makanan outdoor pedas pelayanan pemandangan_alam tempat_bermain tempat_makan
+728,728,4.6,Kota Jakarta Timur,Marugame Udon,fasilitas indoor lokasi smoking
+736,736,4.3,Kabupaten Bantul,Bakso Balungan Alexa,fasilitas outdoor pelayanan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+743,743,4.6,Kota Yogyakarta,Seafood Lembur Kuring,fasilitas makanan pedas tempat_makan
+745,745,4.4,Kota Jakarta Pusat,Pempek Cawan Putih,kuliner makanan makanan_hari tempat_makan
+748,748,4.6,Kota Jakarta Selatan,Pempek Selamat Kemang,fasilitas kuliner makanan minuman
+749,749,4.9,Kabupaten Sleman,Warung Iyup,edukasi kenyamanan makanan ramah_anak tempat_makan
+751,751,4.1,Kota Jakarta Timur,Mekar Pondok Lesehan,daging estetik foto fotogenik makanan ramah_anak sepeda_motor tempat_makan
+753,753,4.4,Kabupaten Bantul,Angkringan JeJeR,fasilitas makanan minuman musik outdoor pagi_hari pemandangan_alam tempat_bermain tempat_makan
+754,754,4.6,Kabupaten Sleman,Lesehan Masjan Bakar & Goreng,makanan pedas
+772,772,4.5,Kota Jakarta Pusat,Penang Bistro,kuliner lokasi pertemuan
+774,774,4.1,Kabupaten Sleman,Warung Layar Sentuh,makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+785,785,4.5,Kabupaten Kulon Progo,Langgeng Sari Mbulu Resto Dan Pemancingan,fasilitas kenyamanan makanan pedas pelayanan pertemuan ramah_anak
+788,788,4.5,Kota Jakarta Selatan,Pepper Lunch,fasilitas indoor makanan_jepang pelayanan
+794,794,4.4,Kota Jakarta Timur,Nasi Bebek Mak Isa,pedas tempat_makan
+798,798,4.7,Kota Jakarta Barat,Jumbo express,makanan tempat_makan
+799,799,4.5,Kabupaten Sleman,Bowl-Ling Fruit Bar & Kitchen Concat,makanan outdoor pemandangan_alam ramah_anak ramah_anak_anak relaksasi tempat_bermain tempat_makan
+800,800,4.5,Kota Jakarta Timur,Nasi Megono Warung Makan Bu Marsiti,kuliner makanan makanan_hari tempat_makan
+802,802,3.5,Kota Jakarta Selatan,Kafe Betawi Lippo Mall Kemang,kuliner minuman ramah_anak
+806,806,4.6,Kabupaten Sleman,Kedai Soto Rempah Pak.B,makanan minuman tempat_makan tempat_ngumpul
+807,807,4.6,Kabupaten Sleman,WARUNG SOP DAN SATE SAPI PAK BAYU 2,makanan outdoor pemandangan_alam tempat_bermain
+808,808,4.5,Kota Jakarta Timur,Nasi Uduk dan Ayam Goreng Mat Lengket,daging makanan
+812,812,4.4,Kabupaten Sleman,Bale Reren,fasilitas makanan outdoor pelayanan pemandangan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+817,817,4.4,Kota Jakarta Utara,Permata Mubarok 1,kemah makanan
+818,818,4.3,Kota Jakarta Timur,Nasi uduk Khas Betawi,pelayanan tempat_makan
+819,819,4.5,Kabupaten Sleman,Pasta Banget Signature,kuliner outdoor pemandangan_alam tempat_bermain
+822,822,4.5,Kota Jakarta Timur,NoMiNoMi Delight Rawamangun,fasilitas minuman
+824,824,4.6,Kota Jakarta Pusat,Kahyangan Japanese Restaurant,bersejarah fasilitas pelayanan tempat_wisata
+829,829,4.5,Kota Jakarta Timur,OTW Sushi Jakarta,fasilitas makanan_jepang pelayanan ramah_anak
+831,831,4.3,Kabupaten Sleman,Restoran Taman Pringsewu,fasilitas kegiatan_rekreasi kenyamanan makanan outdoor pelayanan pemandangan_alam rekreasi tempat_bermain tempat_main tempat_makan tempat_wisata
+838,838,4.3,Kabupaten Sleman,Roemah Poetih,fasilitas makanan_tradisional ramah_anak relaksasi tempat_makan tradisional
+845,845,4.5,Kota Jakarta Timur,Pancong Rest Coffee,fasilitas kuliner lokasi malam_hari relaksasi sepeda_motor
+846,846,4.5,Kota Jakarta Timur,Pecel Berkah,fasilitas makanan makanan_tradisional ramah_anak tempat_makan tradisional
+848,848,4.6,Kota Jakarta Timur,"Pecel Lele 57 ""MADJOE""",fasilitas makanan malam_hari pedas pelayanan tempat_makan
+849,849,4.7,Kota Jakarta Timur,Pempek Gaby Restaurant,makanan tempat_makan
+852,852,4.2,Kota Jakarta Timur,Rumah Makan Bebek Cawang & Oriental Food,daging fasilitas makanan tempat_makan
+853,853,4.5,Kota Jakarta Barat,Kampung Kecil Kedoya Puri Kembangan,aktivitas_air makanan pelayanan ramah_anak tempat_makan tempat_wisata
+856,856,4.5,Kota Jakarta Selatan,Agneya Restaurant,ramah_anak
+858,858,4.5,Kota Jakarta Timur,Riung Tenda,fasilitas makanan minuman pertemuan ramah_anak tempat_makan
+859,859,4.2,Kota Jakarta Timur,Rm bungo tanjuang masakan padang rawa domba,makanan tempat_makan
+861,861,4.0,Kota Jakarta Timur,Resto Taman Hek,alam fasilitas kenyamanan lokasi musik outdoor pelayanan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+862,862,4.6,Kota Jakarta Timur,Sambel Setan Cikini,pedas tempat_makan
+863,863,4.1,Kota Jakarta Timur,Rindang Alam Cafe & Resto,fasilitas kenyamanan malam_hari ramah_anak
+869,869,4.5,Kota Jakarta Timur,Rumah Makan Padang Salero Minang,makanan makanan_tradisional tempat_makan
+871,871,4.5,Kota Jakarta Timur,Sari Idaman,aktivitas_air makanan pertemuan ramah_anak tempat_makan tempat_wisata
+872,872,4.2,Kota Jakarta Timur,Sate Kambing Haji Giyo,daging kebersihan makanan tempat_makan
+874,874,4.4,Kota Jakarta Pusat,Ayam Goreng Suharti,lokasi makanan makanan_tradisional tempat_makan tradisional
+875,875,4.6,Kota Jakarta Selatan,Plataran Dharmawangsa,tempat_makan
+878,878,4.5,Kota Jakarta Timur,Sate Padang H. Ajo Manih,kuliner
+879,879,4.5,Kota Jakarta Timur,Sate Padang Mak Syukur Rawamangun,fasilitas lokasi makanan tempat_makan
+880,880,5.0,Kabupaten Bantul,Angkringan Ratu,makanan tempat_makan
+881,881,3.7,Kota Jakarta Timur,Sate Khas Senayan Mall Cipinang,makanan tempat_makan
+884,884,4.6,Kota Jakarta Pusat,Plataran Menteng,bersejarah pertemuan
+887,887,3.9,Kota Jakarta Timur,Seafood 68 Cabang Baret Biru,fasilitas makanan pedas pelayanan tempat_makan
+888,888,4.7,Kota Jakarta Timur,"Seafood Tumpah Jakarta, iwaAku green seafood",daging fasilitas makanan pelayanan tempat_makan
+889,889,4.5,Kota Jakarta Timur,SHSD Sambel Hejo Sambel Dadak Rawamangun,makanan makanan_tradisional tempat_makan tradisional
+890,890,4.4,Kota Jakarta Pusat,Dua Nyonya Restaurant,makanan musik
+891,891,4.7,Kabupaten Sleman,"Holycow! Steakhouse By Chef Afit, Yogyakarta",bersejarah fasilitas indoor kuliner pelayanan tempat_ibadah tempat_wisata
+896,896,4.7,Kota Jakarta Selatan,PLUIE Cafe & Restaurant,makanan tempat_makan
+902,902,4.4,Kota Jakarta Timur,Steak 21,kuliner minuman tempat_makan
+903,903,4.9,Kota Jakarta Timur,Street Sushi Kalisari,fasilitas kuliner pelayanan ramah_anak
+904,904,4.7,Kota Jakarta Timur,SYUBIDUHAPHAP!,makanan_western minuman ramah_anak
+911,911,4.5,Kabupaten Sleman,"Sate Kambing ""Pak Waji""",makanan tempat_makan
+913,913,4.4,Kabupaten Sleman,LK Lor Kreteg Resto & Kopi,fasilitas makanan ramah_anak tempat_makan
+915,915,4.5,Kota Jakarta Timur,Tent Suki & Barbeque,makanan tempat_makan
+919,919,4.2,Kabupaten Sleman,Kopi plosok dan sego thiwul,fasilitas pelayanan tempat_makan tempat_ngumpul
+920,920,4.5,Kota Jakarta Timur,Teman Kita Cafe & Resto,fasilitas makanan ramah_anak smoking tempat_makan
+921,921,4.5,Kota Jakarta Timur,Tenda Pak Gendut,makanan tempat_makan
+922,922,4.8,Kota Jakarta Timur,Teras Rumah Nenek,relaksasi
+925,925,4.4,Kota Jakarta Timur,Warung Lesehan Banyumili,fasilitas ramah_anak
+927,927,4.4,Kota Jakarta Timur,Warung Mak Dower,makanan tempat_makan
+928,928,4.4,Kota Jakarta Timur,Warung Sate dan Tongseng Pak H. Budi Asli Solo,makanan minuman tempat_makan
+932,932,4.6,Kota Jakarta Timur,WARUNG NASIKU ENAK,kuliner makanan_chinese minuman
+933,933,4.2,Kota Jakarta Timur,Warung Sate Haji Giyo Original,daging fasilitas makanan minuman tempat_makan
+939,939,4.3,Kabupaten Sleman,The Crabbys,makanan
+943,943,4.4,Kabupaten Bantul,JOGLO OPAK,fasilitas makanan outdoor pelayanan pemandangan_alam pemandangan_indah pertemuan ramah_anak relaksasi tempat_bermain tempat_makan tempat_wisata
+949,949,4.5,Kota Jakarta Selatan,HAKA Dimsum,makanan smoking tempat_makan
+952,952,4.3,Kabupaten Bantul,Ingkung Kuali,lokasi makanan outdoor pemandangan_alam relaksasi tempat_bermain tempat_makan
+958,958,4.4,Kota Jakarta Utara,"Ayam PEMUDA TOMANG, Green Garden",kuliner pedas tempat_makan
+959,959,4.4,Kota Yogyakarta,Rumah Makan Padang Murah,daging edukasi fasilitas makanan minuman tempat_makan
+967,967,4.5,Kota Jakarta Utara,Ayam Baraya,daging kuliner makanan tempat_makan
+968,968,4.4,Kabupaten Gunung Kidul,Pondok Makan dan Pemancingan Sekar Kusuma,aktivitas_air daging kenyamanan makanan pertemuan tempat_makan tempat_wisata
+969,969,3.4,Kabupaten Bantul,Kuliner Niten Padang Asli,makanan tempat_makan
+970,970,4.4,Kota Jakarta Pusat,Madame Delima,makanan malam_hari musik pertemuan ramah_anak smoking tempat_makan
+973,973,4.2,Kabupaten Gunung Kidul,Pondok Makan Lesehan Griyo Wono,alam daging fasilitas kenyamanan lokasi makanan outdoor pantai pemandangan_alam tempat_bermain tempat_wisata transportasi
+974,974,4.5,Kota Jakarta Utara,Bakmi Pejagalan Ami,makanan pagi_hari tempat_makan
+976,976,4.4,Kota Jakarta Pusat,Pondok Wong Palembang,makanan
+982,982,4.5,Kota Jakarta Selatan,Mail Lesehan fatmawati,makanan musik pedas tempat_makan
+983,983,4.4,Kota Jakarta Utara,Holy Smokes PIK,makanan_western
+987,987,4.5,Kota Jakarta Utara,MAMAM Indonesian Mom's Dishes,estetik foto fotogenik makanan ramah_anak tempat_makan
+989,989,4.9,Kota Jakarta Timur,Ayam Godas Klender,fasilitas makanan pedas pelayanan tempat_makan
+990,990,4.6,Kota Jakarta Utara,Rumah Makan Asong,tempat_makan
+991,991,4.2,Kota Jakarta Timur,Bakso Charles,fasilitas makanan pelayanan ramah_anak tempat_makan
+998,998,4.7,Kabupaten Sleman,Gudeg Kangen Mbah Manto Gejayan,makanan tempat_makan
+1001,1001,4.1,Kota Jakarta Utara,NSNTR Restaurant & Bar,daging indoor makanan tempat_makan
+1006,1006,4.5,Kota Jakarta Utara,ONNI House Jakarta,estetik foto fotogenik tempat_makan tempat_ngumpul
+1008,1008,4.2,Kota Jakarta Utara,PappaJack PIK Elang Laut,fasilitas kuliner minuman pelayanan pertemuan relaksasi smoking
+1013,1013,4.7,Kabupaten Sleman,Pengilon,alam estetik foto fotogenik pemandangan_indah tempat_wisata
+1014,1014,4.3,Kabupaten Kepulauan Seribu,Pondok Sate Kambing Muda H. Paijo,fasilitas makanan minuman tempat_makan
+1015,1015,4.8,Kota Jakarta Utara,Soto Betawi Nyonya Afung Muara Karang,fasilitas makanan pelayanan tempat_makan
+1017,1017,4.6,Kota Jakarta Selatan,Gado - Gado Benteng Karya,makanan tempat_makan
+1018,1018,4.4,Kota Jakarta Utara,Segarra,alam fasilitas lokasi outdoor pantai pemandangan_alam tempat_bermain tempat_wisata
+1019,1019,4.6,Kota Jakarta Utara,Sushi Hiro,makanan_jepang tempat_makan
+1022,1022,4.4,Kabupaten Sleman,"Sate klathak""PANGESTU""",daging makanan tempat_makan
+1023,1023,4.2,Kabupaten Sleman,Rumah Makan Padang Lapau Minang,daging hemat_biaya makanan makanan_tradisional pedas tempat_makan
+1024,1024,4.5,Kota Jakarta Utara,The Garden PIK,makanan_jepang
+1027,1027,4.3,Kota Jakarta Pusat,Pulau Dua Restaurant,alam estetik kenyamanan makanan outdoor pemandangan pemandangan_alam pemandangan_indah pertemuan tempat_bermain tempat_makan tempat_wisata
+1028,1028,4.3,Kabupaten Kepulauan Seribu,Kwetiau & Chinese Food Acai,makanan tempat_makan
+1031,1031,4.4,Kota Jakarta Utara,Ayam Geprek Mas Eko,kuliner makanan pedas ramah_anak tempat_makan
+1034,1034,4.5,Kota Jakarta Utara,Warung Bu Kris,makanan pedas ramah_anak tempat_makan
+1035,1035,4.5,Kota Jakarta Utara,Warung Ndoro Tanjung Priok,fasilitas lokasi makanan musik pelayanan pertemuan tempat_makan
+1040,1040,4.5,Kota Jakarta Utara,Warung Wakaka,makanan
+1042,1042,4.5,Kota Jakarta Utara,Angke Restaurant & Function Hall,indoor makanan malam_hari tempat_makan
+1043,1043,3.8,Kota Jakarta Utara,Ayam Gepuk Pak Gembus Pegadungan,pedas tempat_makan
+1044,1044,4.3,Kota Jakarta Utara,Sichuan Palace,pedas tempat_makan
+1045,1045,4.5,Kabupaten Bantul,Jiwajawi Jogja,alam lokasi outdoor pemandangan_alam tempat_bermain tempat_wisata
+1047,1047,4.3,Kabupaten Bantul,Joglo Dahar Gedhang Mas,alam lokasi makanan outdoor pemandangan_alam relaksasi tempat_bermain tempat_makan tempat_wisata
+1051,1051,4.6,Kota Jakarta Utara,Choipan Panas Pontianak Siam 91 Sunter Indah,pedas tempat_makan
+1053,1053,4.5,Kota Jakarta Utara,Daun Kelapa,estetik foto fotogenik lokasi makanan outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata
+1054,1054,4.5,Kota Jakarta Utara,d'zuka,tempat_makan
+1055,1055,4.3,Kota Jakarta Utara,Fogo Brazilian BBQ - Pantai Indah Kapuk,makanan tempat_makan
+1056,1056,4.4,Kota Jakarta Utara,Gerobak Betawi Kelapa Gading,makanan tempat_makan
+1060,1060,4.7,Kota Jakarta Utara,IPPEKE KOMACHI,makanan_jepang
+1064,1064,4.5,Kota Jakarta Utara,Hang Tuah - Mall of Indonesia,daging fasilitas kuliner makanan minuman pelayanan pertemuan tempat_makan
+1065,1065,4.4,Kabupaten Kepulauan Seribu,Rumah Makan Tabona,daging makanan tempat_makan
+1070,1070,4.4,Kota Jakarta Utara,KINCIR - Souvenir I Kitchen I Beer,indoor malam_hari minuman musik
+1073,1073,4.5,Kota Jakarta Utara,Makassar Seafood Pelangi,makanan
+1074,1074,4.5,Kota Jakarta Utara,Nasi Bebek MAMA Mimi,daging makanan pedas tempat_makan
+1075,1075,4.6,Kota Jakarta Utara,Nasi Uduk betawi Bang Dul,makanan makanan_tradisional pagi_hari tempat_makan
+1081,1081,4.5,Kota Jakarta Utara,Nyiur Resto,estetik fasilitas foto fotogenik makanan makanan_hari outdoor pagi_hari pelayanan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+1082,1082,4.4,Kota Jakarta Utara,Pvblic Bistro and Bar,alam indoor kuliner lokasi malam_hari minuman musik outdoor pantai pemandangan_alam tempat_bermain tempat_wisata
+1085,1085,4.3,Kota Jakarta Utara,OTW Food Street,makanan relaksasi tempat_makan
+1087,1087,4.5,Kota Jakarta Utara,Rm. Sinar Minang Putra Masakan Padang,daging fasilitas kuliner makanan makanan_hari makanan_tradisional tempat_makan
+1088,1088,4.5,Kota Jakarta Utara,Santai Malam 1001,makanan pedas tempat_makan
+1089,1089,4.4,Kabupaten Bantul,Sate Klathak Mak Adi,kuliner makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+1092,1092,4.2,Kabupaten Sleman,Warung Makan Ika (Special Hot Plate),edukasi makanan pelayanan tempat_makan
+1093,1093,4.6,Kota Jakarta Utara,Rumah Makan Pong Indra,pedas tempat_makan
+1094,1094,4.5,Kota Jakarta Utara,Seafood Ayu,makanan tempat_makan
+1097,1097,4.4,Kota Jakarta Utara,Sop Konro Karebosi,makanan tempat_makan
+1104,1104,4.1,Kota Jakarta Utara,Ssikkek Korean BBQ Sunter,fasilitas halal makanan pelayanan
+1106,1106,4.5,Kota Jakarta Utara,Wiro Sableng 212 Kelapa Gading,makanan
+1113,1113,4.5,Kabupaten Kepulauan Seribu,Sentosa Seafood Market,makanan pedas tempat_makan
+1130,1130,4.5,Kota Jakarta Pusat,KEDAI SIRIH MERAH,budaya edukasi makanan pertemuan rumah tempat_makan tradisional
+1131,1131,4.3,Kabupaten Kepulauan Seribu,Nusa Resto,aktivitas_air alam_terbuka lokasi outdoor pemandangan pemandangan_alam rekreasi tempat_bermain tempat_wisata
+1133,1133,4.3,Kota Jakarta Selatan,Marrakech Bistro & Cafe,fasilitas
+1135,1135,4.5,Kota Jakarta Barat,Puteri Sriwijaya,makanan tempat_makan
+1137,1137,4.3,Kota Jakarta Selatan,Angel Lesehan,daging makanan malam_hari musik pedas tempat_makan
+1141,1141,4.4,Kota Jakarta Barat,Ayam kukuk,daging kuliner makanan pedas tempat_makan
+1142,1142,4.5,Kota Jakarta Pusat,Kedai Tjikini,pertemuan smoking tempat_makan tempat_ngumpul
+1145,1145,4.5,Kota Jakarta Utara,Bakmi Along,kuliner makanan tempat_makan
+1146,1146,4.5,Kota Jakarta Barat,Bebek Kaleyo Daan Mogot,pedas relaksasi tempat_makan
+1155,1155,4.2,Kota Jakarta Utara,Dapoer SOTO SELAN Semarang,daging kuliner makanan
+1156,1156,5.0,Kabupaten Bantul,Gudeg Manggar Bantul Dapoer Palupi,lokasi
+1163,1163,4.4,Kota Jakarta Selatan,RAY'S Steak & Grill,estetik fasilitas foto fotogenik pelayanan smoking
+1165,1165,4.2,Kabupaten Kepulauan Seribu,Bumbu Moyang,daging makanan makanan_tradisional ramah_anak tempat_makan tradisional
+1171,1171,4.5,Kota Jakarta Selatan,Koi Kemang,fasilitas kenyamanan pertemuan smoking tempat_makan tempat_ngumpul
+1174,1174,4.4,Kota Jakarta Timur,Abuba Steak,fasilitas lokasi pelayanan
+1175,1175,4.6,Kota Jakarta Selatan,Abunawas Restaurant - Kemang,makanan tempat_makan
+1177,1177,5.0,Kota Jakarta Selatan,Warung Podjokan,tempat_makan
+1180,1180,4.1,Kabupaten Kepulauan Seribu,Resto Apung Ikan Bakar RINDU RASA Ibu *DIAN*,makanan ramah_anak tempat_makan
+1183,1183,4.3,Kota Jakarta Barat,Ayam Penyet Mas Marno,daging fasilitas kuliner makanan pedas pelayanan ramah_anak tempat_makan
+1185,1185,4.6,Kota Jakarta Utara,Ayam Taliwang Khas Lombok Asli Pak Rosidi,daging fasilitas kuliner makanan pedas tempat_makan
+1187,1187,4.3,Kota Jakarta Timur,Bebek Goreng H. Slamet Buaran,kuliner makanan pedas tempat_makan
+1191,1191,4.4,Kabupaten Bantul,Enthok Rempah Imogiri,kegiatan_rekreasi kenyamanan lokasi makanan outdoor pemandangan_alam pertemuan ramah_anak tempat_bermain
+1195,1195,4.0,Kota Jakarta Barat,Ayam Geprek Ok Cis,fasilitas makanan pedas pelayanan tempat_makan
+1196,1196,4.2,Kabupaten Gunung Kidul,Teras Petruk,daging fasilitas makanan ramah_anak tempat_makan
+1197,1197,4.3,Kota Jakarta Utara,Bakmi Ationg,daging makanan pedas tempat_makan
+1198,1198,4.3,Kota Jakarta Barat,Bakmi Buncit - Green Lake City,fasilitas makanan ramah_anak tempat_makan
+1199,1199,4.7,Kota Jakarta Selatan,Hasea Eatery Dharmawangsa,pertemuan
+1201,1201,4.5,Kota Jakarta Utara,Bakso Garden,makanan pedas tempat_makan
+1202,1202,4.3,Kota Jakarta Pusat,HokBen Sabang,lokasi makanan makanan_jepang tempat_makan
+1203,1203,4.2,Kabupaten Gunung Kidul,IKAN BAKAR MAZ JAMMUS,alam lokasi makanan outdoor pantai pedas pemandangan_alam tempat_bermain tempat_wisata
+1209,1209,4.4,Kota Jakarta Pusat,Cabe Rempah RESTO,indoor kuliner makanan makanan_hari minuman tempat_makan
+1211,1211,5.0,Kota Jakarta Timur,Rendang Bakar Bahagia,daging makanan tempat_makan
+1214,1214,4.5,Kota Jakarta Barat,Cita Rasa Medan,minuman
+1215,1215,4.3,Kota Jakarta Barat,Cahaya Minang Rumah Makan Tegal Alur,makanan tempat_makan
+1216,1216,4.6,Kota Jakarta Selatan,Jakarta Restaurant,indoor pertemuan rumah
+1217,1217,4.5,Kota Jakarta Barat,Bakso Malang Nonik,fasilitas lokasi makanan tempat_makan
+1219,1219,4.5,Kota Jakarta Pusat,Restaurant Rendezvous - Kebon Sirih,makanan tempat_makan
+1220,1220,4.5,Kota Jakarta Pusat,Claypot Popo Sabang,makanan tempat_makan
+1223,1223,4.5,Kota Jakarta Selatan,Coto Makassar Daeng Rahman,daging fasilitas hemat_biaya makanan tempat_makan
+1227,1227,4.3,Kota Jakarta Selatan,Dapoer Ciragil,kuliner makanan makanan_hari pertemuan
+1228,1228,4.5,Kota Jakarta Selatan,Dapoer Oemoem,fasilitas pedas pertemuan ramah_anak tempat_makan
+1230,1230,4.2,Kota Jakarta Barat,Dapur Solo - Green Sedayu Mall,fasilitas pelayanan ramah_anak
+1231,1231,4.5,Kota Jakarta Selatan,Kedai Nyonyah WD,alam makanan minuman tempat_makan
+1232,1232,4.0,Kota Jakarta Utara,D'Cost Mall Daan Mogot,fasilitas makanan minuman pelayanan tempat_makan
+1239,1239,4.3,Kota Jakarta Selatan,Kopinya Kimboo and Resto,fasilitas makanan makanan_western malam_hari minuman musik tempat_makan tempat_ngumpul
+1243,1243,4.3,Kabupaten Gunung Kidul,Ayam Geprek MM Monggo Mampir,fasilitas
+1247,1247,4.3,Kota Jakarta Pusat,Kuliner Jadoel,makanan tempat_makan
+1249,1249,4.5,Kabupaten Gunung Kidul,Kedai Lobster Pak Sis Timang,makanan pedas tempat_makan
+1253,1253,4.2,Kota Jakarta Selatan,Gado - Gado Boplo,fasilitas makanan tempat_makan
+1261,1261,4.6,Kabupaten Sleman,KOLONA Kitchen & Coffee,fasilitas makanan pelayanan pertemuan smoking
+1266,1266,4.5,Kota Jakarta Selatan,Gubug Makan Mang Engking,aktivitas_air outdoor pemandangan_alam tempat_bermain tempat_wisata
+1267,1267,4.3,Kabupaten Bantul,Kuliner Nando,makanan tempat_makan
+1269,1269,4.2,Kabupaten Bantul,Lesehan Anas Mandiri,fasilitas makanan pedas pertemuan ramah_anak tempat_makan
+1271,1271,4.3,Kota Jakarta Pusat,Kuliner Theresia,makanan tempat_makan
+1272,1272,4.2,Kota Jakarta Selatan,Kyoto Gion Cafe,makanan_jepang
+1273,1273,4.3,Kabupaten Gunung Kidul,Restoran alam rempak gunungkidul,ramah_anak tempat_makan
+1274,1274,4.3,Kota Jakarta Pusat,Kyuuban Tei,fasilitas makanan pelayanan tempat_makan
+1275,1275,4.8,Kota Jakarta Utara,HOKBEN KITCHEN GREEN GARDEN KEDOYA,fasilitas pelayanan rumah
+1276,1276,4.2,Kota Jakarta Barat,Hongkong Dimsum,fasilitas makanan tempat_makan
+1279,1279,4.2,Kota Jakarta Pusat,Langit Seduh Rooftop,estetik foto fotogenik hiburan indoor musik outdoor pemandangan_alam tempat_bermain tempat_wisata
+1286,1286,4.5,Kabupaten Gunung Kidul,GanNa Resto nDeso,fasilitas kenyamanan makanan outdoor pedas pemandangan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+1292,1292,4.2,Kota Jakarta Utara,Lesehan De Daun,daging fasilitas kuliner lokasi makanan minuman ramah_anak tempat_makan
+1293,1293,4.3,Kota Jakarta Pusat,Restoran Garuda,daging fasilitas makanan
+1299,1299,4.2,Kota Jakarta Barat,Bola Seafood Acui,makanan pedas tempat_makan
+1300,1300,4.2,Kota Jakarta Barat,Lesehan Kehed,daging fasilitas kuliner makanan pedas ramah_anak tempat_makan
+1302,1302,4.5,Kota Jakarta Pusat,Restoran Garuda Cikini,daging fasilitas makanan makanan_tradisional pelayanan tempat_makan
+1303,1303,4.6,Kota Jakarta Pusat,iAyam Geprek Kawasan Kuliner BSM,kuliner makanan_hari
+1305,1305,4.4,Kota Jakarta Selatan,Iga Bagus,makanan pedas tempat_makan
+1307,1307,4.6,Kota Jakarta Barat,Ikan Bakar DERMAGA 7,makanan tempat_makan
+1308,1308,4.5,Kota Jakarta Selatan,Lokananta Terrace Resto,fasilitas makanan makanan_western malam_hari minuman pertemuan ramah_anak smoking
+1317,1317,4.5,Kota Jakarta Selatan,Jambo Kupi,smoking tempat_makan
+1318,1318,4.6,Kota Jakarta Selatan,"Lumpang, Kemang.",daging makanan tempat_makan
+1320,1320,4.6,Kota Jakarta Utara,MAISON TATEI - Green Lake City,estetik foto fotogenik
+1326,1326,4.5,Kabupaten Bantul,"Geprek Dahsyat Bu Rahma, Paseban",daging fasilitas makanan minuman pedas pelayanan tempat_makan
+1327,1327,4.5,Kota Jakarta Selatan,Mamma Rosy,kenyamanan
+1328,1328,4.4,Kota Jakarta Pusat,Martabakku Menteng,makanan smoking tempat_makan
+1336,1336,4.3,Kota Jakarta Selatan,"Meat Me Steakhouse and Butchery, Kemang",kuliner makanan tempat_makan
+1337,1337,4.4,Kota Jakarta Pusat,Restoran Sari Minang Juanda Masakan Padang,daging fasilitas kuliner lokasi makanan makanan_hari pelayanan ramah_anak
+1339,1339,4.2,Kota Jakarta Timur,Mekar Lesehan,aktivitas_air kegiatan_rekreasi kenyamanan makanan malam_hari musik ramah_anak rekreasi tempat_bermain tempat_main tempat_makan tempat_wisata
+1342,1342,4.5,Kota Jakarta Pusat,Midori Japanese Restaurant,hiburan makanan_jepang musik tempat_makan tempat_ngumpul
+1343,1343,4.4,Kota Jakarta Pusat,Restoran Sederhana Masakan Padang,daging fasilitas makanan makanan_tradisional minuman smoking tempat_makan
+1346,1346,4.7,Kota Jakarta Utara,Pempek Bumbu,makanan
+1352,1352,4.5,Kota Jakarta Utara,Restoran Sederhana SA Juanda,daging fasilitas kuliner makanan makanan_hari pertemuan
+1356,1356,4.4,Kabupaten Kepulauan Seribu,Tamani Cafe Citra Garden 6,fasilitas makanan makanan_western ramah_anak tempat_makan
+1358,1358,4.5,Kabupaten Kepulauan Seribu,Sushi Phe,fasilitas makanan_jepang pelayanan rumah
+1367,1367,4.7,Kota Jakarta Timur,Ajwad Resto,kuliner makanan tempat_ibadah tempat_makan
+1369,1369,4.3,Kota Jakarta Barat,Resto Segar Wangi,makanan minuman pedas ramah_anak tempat_makan
+1370,1370,4.4,Kota Jakarta Pusat,Restoran Trio,fasilitas
+1371,1371,4.4,Kabupaten Gunung Kidul,Resto JOGO SEGORO Seafood,daging makanan pedas pemandangan pemandangan_alam ramah_anak tempat_makan tempat_wisata
+1373,1373,4.4,Kota Jakarta Pusat,BAKMI GM SUNDA,ramah_anak ramah_anak_anak rekreasi tempat_makan
+1374,1374,4.3,Kota Jakarta Pusat,Bakmi Toko Tiga,lokasi makanan tempat_makan
+1378,1378,4.6,Kota Jakarta Timur,Asinan Betawi H.Mansyur Kamboja,rumah
+1381,1381,4.3,Kabupaten Sleman,Pondok Makan Sido Mekar,fasilitas makanan outdoor pemandangan_alam ramah_anak tempat_bermain tempat_makan
+1388,1388,4.3,Kabupaten Kulon Progo,"Ayam Goreng ""Bu Hartin"" Driyan",daging fasilitas makanan pedas pelayanan ramah_anak tempat_makan
+1389,1389,4.4,Kabupaten Gunung Kidul,Ayam Goreng Sri Pendowo,daging fasilitas makanan pedas pelayanan ramah_anak tempat_makan
+1394,1394,4.3,Kabupaten Bantul,Bakmi Jawa Mbah Mo,daging kuliner lokasi makanan tempat_makan
+1395,1395,4.5,Kabupaten Gunung Kidul,"Bakmi, Soto & Ayam Goreng Mbah Noto",alam daging kuliner lokasi makanan outdoor pantai pedas pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1396,1396,4.3,Kabupaten Kulon Progo,Bakmi Yu Nur,fasilitas hemat_biaya kuliner makanan malam_hari outdoor pemandangan_alam tempat_bermain tempat_makan
+1397,1397,4.5,Kota Jakarta Timur,Bakso Selera,fasilitas makanan ramah_anak tempat_makan
+1399,1399,4.3,Kabupaten Kulon Progo,Dapoer Khayangan,fasilitas lokasi musik outdoor pelayanan pemandangan pemandangan_alam ramah_anak tempat_bermain tempat_wisata
+1400,1400,4.2,Kabupaten Kulon Progo,Dapur SEMAR,kenyamanan makanan outdoor pemandangan_alam pertemuan tempat_bermain tempat_makan
+1409,1409,4.4,Kabupaten Kulon Progo,GEBLEK PARI (Asli & Pertama) cafe terdekat,lokasi outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata
+1410,1410,4.4,Kota Jakarta Utara,Gerobak Betawi Taman Ratu,smoking
+1412,1412,4.3,Kabupaten Kepulauan Seribu,Sate Khas Senayan - Citra Garden 6,makanan ramah_anak tempat_makan
+1414,1414,4.4,Kabupaten Bantul,Griya Dahar MBOK SUM,daging fasilitas makanan relaksasi tempat_makan
+1416,1416,4.3,Kabupaten Gunung Kidul,Gudeg YU DJUM,alam fasilitas kuliner lokasi outdoor pantai pemandangan_alam ramah_anak rumah_makan tempat_bermain tempat_wisata
+1417,1417,4.6,Kabupaten Bantul,Gule & Tongseng Ayam Kampung Sudimoro 3,fasilitas makanan pedas tempat_makan
+1418,1418,4.6,Kota Jakarta Timur,GURAME EMAK,makanan pedas tempat_makan
+1419,1419,4.4,Kota Jakarta Pusat,Happy Day Juanda,makanan makanan_chinese tempat_makan
+1420,1420,4.5,Kota Jakarta Timur,HokBen - Buaran Plaza,fasilitas indoor pelayanan ramah_anak
+1421,1421,4.3,Kabupaten Gunung Kidul,HUTAMA RESTO Rumah makan Pantai Drini,fasilitas kuliner makanan makanan_hari pedas pelayanan transportasi
+1422,1422,4.6,Kabupaten Bantul,Ingkung Ayam Jawa Sor Sawo,kenyamanan makanan outdoor pemandangan_alam ramah_anak tempat_bermain tempat_makan
+1425,1425,4.5,Kabupaten Bantul,JEMPOL nDeso Pondok Makan,fasilitas outdoor pelayanan pemandangan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+1426,1426,4.2,Kabupaten Bantul,Joglomas Resto,aktivitas_air fasilitas makanan outdoor pedas pelayanan pemandangan_alam tempat_bermain tempat_wisata
+1428,1428,4.4,Kabupaten Gunung Kidul,Kampung Emas,daging kenyamanan lokasi makanan outdoor pemandangan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+1430,1430,4.4,Kota Jakarta Timur,Richeese Factory Pahlawan Revolusi,fasilitas makanan pedas pelayanan tempat_makan
+1431,1431,4.5,Kabupaten Sleman,Lesehan Ananda,makanan tempat_makan
+1433,1433,4.5,Kabupaten Sleman,Lesehan Tinie,edukasi fasilitas hemat_biaya makanan pedas pelayanan tempat_makan
+1434,1434,4.5,Kabupaten Kulon Progo,Kedai Kopi Pari,fasilitas lokasi makanan pemandangan pemandangan_alam tempat_makan tempat_wisata
+1435,1435,4.3,Kota Jakarta Timur,Kedai Locale,pertemuan ramah_anak tempat_makan
+1437,1437,4.5,Kota Jakarta Timur,Ketoprak Siang Malam,makanan tempat_makan
+1439,1439,4.4,Kota Jakarta Pusat,Kolonial Jaksa,fasilitas pertemuan smoking tempat_makan tempat_ngumpul
+1440,1440,4.3,Kabupaten Kulon Progo,Kopi Ampirono,gunung lokasi makanan outdoor pemandangan pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1442,1442,4.5,Kabupaten Kulon Progo,Kripala Dekso Coffee and Resto,estetik fasilitas foto fotogenik makanan outdoor pemandangan pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1448,1448,4.5,Kabupaten Gunung Kidul,Lesehan Nasi Merah Pari Gogo,daging makanan makanan_tradisional tempat_makan tradisional
+1449,1449,4.8,Kabupaten Bantul,"Lesehan Rica - Rica ""Yes Tenan""",makanan pedas tempat_makan
+1456,1456,4.5,Kabupaten Kulon Progo,Mie Ayam Pak Man,daging hemat_biaya makanan
+1458,1458,4.7,Kabupaten Sleman,MAKANYA,fasilitas makanan makanan_western malam_hari minuman musik pertemuan ramah_anak relaksasi
+1459,1459,4.3,Kabupaten Sleman,Dapur warna Resto,fasilitas pelayanan ramah_anak tempat_makan
+1461,1461,4.3,Kota Jakarta Pusat,RM. Ampera 2 Tak,fasilitas makanan tempat_makan
+1463,1463,4.4,Kota Jakarta Utara,RM Ayam Bakar 7 Saudara,fasilitas indoor kuliner makanan malam_hari minuman pedas ramah_anak tempat_makan
+1464,1464,4.3,Kabupaten Gunung Kidul,"RM Jawa ""Bu Sudar""",pagi_hari tempat_makan
+1468,1468,4.3,Kabupaten Bantul,Waroeng Spesial Sambal SS Bantul,hemat_biaya pedas tempat_makan
+1472,1472,4.4,Kabupaten Sleman,Siomay Kang Cepot,pedas tempat_makan
+1475,1475,4.2,Kabupaten Kulon Progo,GUBUK MAKAN IWAK KALEN KOTA WATES,fasilitas outdoor pelayanan pemandangan pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_wisata
+1476,1476,4.5,Kabupaten Kulon Progo,"""Kuliner Khas Menoreh"" Mangut & Sidat Goreng Bu Sriwanto",hemat_biaya makanan makanan_tradisional tempat_makan tradisional
+1478,1478,4.3,Kabupaten Gunung Kidul,RM Bu Tiwi Tan Tlogo,kenyamanan lokasi makanan pertemuan tempat_makan transportasi
+1479,1479,4.2,Kabupaten Kulon Progo,Lesehan Omah Sawah,daging fasilitas makanan pedas pelayanan tempat_makan
+1480,1480,4.5,Kabupaten Bantul,Lesehan Welut & seafood,pedas tempat_makan
+1482,1482,4.4,Kabupaten Bantul,RM Padang Bendogorok 1,fasilitas kuliner makanan makanan_tradisional pelayanan tempat_makan
+1485,1485,4.3,Kota Jakarta Utara,Saung Rawa Lele,aktivitas_air kenyamanan makanan rekreasi relaksasi tempat_bermain tempat_main tempat_makan tempat_wisata
+1487,1487,4.5,Kota Jakarta Pusat,RM. Siang Malam,daging kuliner makanan makanan_hari smoking tempat_makan
+1490,1490,4.4,Kota Jakarta Pusat,Roemah Kuliner,hemat_biaya indoor pertemuan
+1494,1494,4.1,Kabupaten Kulon Progo,RM PRING PETUNG,fasilitas lokasi makanan pelayanan pertemuan tempat_makan transportasi
+1495,1495,4.6,Kota Jakarta Timur,Nasi Bebek Ibu Anis,fasilitas makanan pedas tempat_makan
+1496,1496,3.1,Kota Jakarta Selatan,Nasi Uduk Tema,daging makanan tempat_makan
+1497,1497,4.5,Kabupaten Kulon Progo,"Ingkung ""MBAH WONGSO""",daging fasilitas lokasi makanan pedas ramah_anak tempat_makan
+1498,1498,4.4,Kabupaten Bantul,RM & Restoran Parangtritis,makanan outdoor pemandangan_alam ramah_anak tempat_bermain tempat_makan
+1499,1499,4.5,Kabupaten Sleman,Ikan Bakar Cianjur,makanan tempat_makan
+1503,1503,4.5,Kota Jakarta Barat,Ropangyuk!,makanan malam_hari pedas tempat_makan
+1504,1504,4.6,Kota Jakarta Barat,Nasi Bebek Khas Madura,pedas tempat_makan
+1511,1511,4.4,Kota Jakarta Pusat,Nasi Gandul Khas Pati,makanan makanan_hari pagi_hari tempat_makan
+1512,1512,4.4,Kabupaten Sleman,Bakmi Jawa Wijaya,daging makanan tempat_makan
+1514,1514,4.4,Kota Jakarta Utara,"Nasi Gemuk Citra 2, Food Service Jakarta",fasilitas pelayanan
+1516,1516,4.6,Kabupaten Kulon Progo,Geblek Menoreh View,lokasi outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata
+1517,1517,4.1,Kabupaten Sleman,Mbah Bayan Jogja - Kitchen & Coffee,alam daging kuliner makanan outdoor pemandangan_alam relaksasi tempat_bermain tempat_makan tempat_wisata
+1521,1521,4.6,Kota Jakarta Selatan,Nasi Kapau Langganan,fasilitas makanan makanan_tradisional tempat_makan
+1522,1522,4.5,Kabupaten Sleman,Rumah makan MERTAMU,alam makanan outdoor pedas pemandangan_alam rekreasi relaksasi tempat_bermain tempat_makan tempat_wisata
+1523,1523,4.6,Kota Jakarta Selatan,Rumah Makan Ampera Saiyo Jagakarsa,fasilitas
+1524,1524,4.6,Kabupaten Kepulauan Seribu,Pasir Putih Seafood,daging fasilitas makanan pedas pelayanan tempat_makan
+1525,1525,4.5,Kota Jakarta Pusat,Rumah Makan Adem Ayem,fasilitas kuliner makanan makanan_hari tempat_makan
+1526,1526,4.5,Kota Jakarta Utara,Jetski Cafe,outdoor pemandangan pemandangan_alam relaksasi tempat_bermain tempat_wisata
+1530,1530,4.7,Kabupaten Bantul,"Griya Bajjah, Kepala Kambing Utuh",makanan outdoor pemandangan pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1531,1531,4.4,Kota Jakarta Pusat,Nasi Uduk Kebon Kacang,daging fasilitas makanan pedas ramah_anak tempat_makan
+1533,1533,4.1,Kabupaten Gunung Kidul,Rumah Makan Ayam Goreng Kondang Rasa,daging kenyamanan makanan tempat_makan transportasi
+1534,1534,4.5,Kota Jakarta Pusat,Rumah Makan Baru,makanan tempat_makan
+1536,1536,4.4,Kabupaten Gunung Kidul,Rumah Makan Bu Wiwik,alam bersejarah fasilitas indoor lokasi makanan malam_hari outdoor pantai pemandangan_alam tempat_bermain tempat_ibadah tempat_makan tempat_wisata transportasi
+1538,1538,4.3,Kota Jakarta Pusat,Nasi Uduk Kebon Kacang Puas Hati ibu Tati,makanan_tradisional
+1540,1540,4.1,Kabupaten Gunung Kidul,Niela Sary Resto,fasilitas makanan pedas tempat_makan transportasi
+1541,1541,4.3,Kota Jakarta Barat,Nona Judes (Prilly Latuconsina),fasilitas makanan pedas tempat_makan
+1545,1545,4.2,Kabupaten Gunung Kidul,Omah Kampoeng Kuliner Gunungkidul ( Rest Area & Transit ),daging fasilitas lokasi makanan ramah_anak relaksasi tempat_makan transportasi
+1547,1547,4.2,Kota Jakarta Selatan,Omah Sendok,kenyamanan pertemuan relaksasi tempat_makan
+1550,1550,4.4,Kabupaten Sleman,Rumah Makan Dewi,fasilitas kuliner lokasi makanan tempat_makan
+1551,1551,4.4,Kabupaten Kulon Progo,OMAH CANTRIK,lokasi makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+1553,1553,4.1,Kota Jakarta Selatan,Omah Pincuk,estetik foto fotogenik lokasi makanan tempat_makan
+1554,1554,4.3,Kabupaten Bantul,Rumah Makan Bungo Padi,makanan makanan_tradisional pedas tempat_makan
+1558,1558,4.5,Kabupaten Bantul,Angkringan Kang Heru,fasilitas pagi_hari
+1561,1561,4.6,Kota Jakarta Selatan,Pagi Sore Cipete,daging makanan
+1564,1564,4.2,Kabupaten Sleman,Naughty Thesa's Warung,makanan minuman pelayanan tempat_makan
+1570,1570,4.6,Kota Jakarta Selatan,Pagi Sore Jeruk Purut,daging makanan smoking
+1571,1571,4.6,Kabupaten Bantul,Angkringan kebon deso,fasilitas
+1572,1572,4.4,Kota Jakarta Selatan,Pagi Sore Kemang,daging makanan pertemuan ramah_anak
+1574,1574,4.2,Kabupaten Sleman,Bale Bengong Jogjakarta Restaurant,aktivitas_air fasilitas makanan outdoor pelayanan pemandangan_alam relaksasi tempat_bermain tempat_makan tempat_wisata
+1575,1575,4.1,Kota Jakarta Barat,Pangsit Goreng Lek Gino,kuliner makanan tempat_makan
+1579,1579,4.2,Kabupaten Sleman,Bebek Lesa I Lesehan Sayidan Sleman,fasilitas lokasi makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+1581,1581,4.2,Kabupaten Sleman,Kepik Sawah,kenyamanan makanan minuman ramah_anak tempat_makan
+1586,1586,4.4,Kabupaten Sleman,Cafe Brick,kenyamanan
+1598,1598,4.5,Kabupaten Sleman,Kedai Lesehan Climping,kuliner ramah_anak tempat_makan
+1599,1599,4.5,Kota Jakarta Pusat,Kedai Mak Ubi,kuliner makanan minuman pedas tempat_makan
+1603,1603,4.6,Kabupaten Gunung Kidul,kopi puncak clongop,kenyamanan pemandangan pemandangan_alam tempat_wisata
+1606,1606,4.4,Kabupaten Sleman,Rumah Makan Dan Seafood 99,makanan tempat_makan
+1612,1612,4.2,Kabupaten Gunung Kidul,"LESEHAN ""Khas Solo"" MBAH BAGONG",fasilitas lokasi makanan pedas pelayanan
+1613,1613,4.3,Kabupaten Gunung Kidul,Lesehan Katamso,fasilitas makanan pedas pelayanan tempat_makan
+1614,1614,4.3,Kabupaten Gunung Kidul,Lesehan Layah Kembar Garden,alam fasilitas lokasi makanan musik outdoor pantai pedas pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1620,1620,4.6,Kota Jakarta Barat,Layar Seafood & Ikan Bakar,makanan pedas tempat_makan
+1621,1621,4.6,Kabupaten Gunung Kidul,Lesehan Mak Iyem,makanan pedas
+1623,1623,4.4,Kabupaten Bantul,Mangut Lele Mbah Marto Patalan Jetis Bantul,lokasi makanan pedas tempat_makan
+1624,1624,4.6,Kabupaten Gunung Kidul,Limasan Kembar Pak Kumis Kidul Tlogo,fasilitas indoor makanan makanan_tradisional malam_hari tempat_makan tradisional
+1629,1629,4.7,Kabupaten Bantul,Mides goyang lidah,makanan tempat_makan
+1632,1632,4.6,Kabupaten Sleman,Sop Buntut Bu Menuk (seberang MSF),daging kuliner makanan makanan_western pedas tempat_makan
+1633,1633,4.4,Kabupaten Sleman,Penyetan Mas Kobis,edukasi makanan minuman pedas tempat_makan
+1634,1634,4.6,Kabupaten Bantul,Mie Ayam dan Bakso Om Karman 2,fasilitas hemat_biaya kuliner
+1636,1636,4.5,Kota Jakarta Utara,Dapur Serundeng,indoor malam_hari
+1639,1639,4.5,Kabupaten Bantul,"Mie Ayam Sabrang ""Kinanthi"" (Mie Ayam Tanpa Micin Bantul)",lokasi makanan
+1642,1642,4.7,Kabupaten Sleman,Warung Makan Mamiku,makanan ramah_anak rumah
+1643,1643,4.9,Kabupaten Bantul,Nasi Goreng Atletis,indoor kuliner makanan tempat_makan
+1644,1644,4.9,Kabupaten Bantul,Oemah Canting,fasilitas makanan musik ramah_anak relaksasi tempat_makan
+1647,1647,4.5,Kabupaten Sleman,Sarangeui Oppa,edukasi kuliner
+1653,1653,3.8,Kabupaten Sleman,Rumah Makan Dan Restoran Murah Meriah,daging fasilitas makanan pedas pelayanan tempat_makan
+1654,1654,4.4,Kabupaten Gunung Kidul,"Pondok Ikan Bakar ""Bu Shintia"" Bandung",fasilitas indoor malam_hari pelayanan ramah_anak rekreasi relaksasi tempat_bermain tempat_main tempat_wisata
+1657,1657,4.4,Kota Jakarta Barat,Ayam Keprabon City Resort,daging fasilitas makanan pedas pelayanan tempat_makan
+1661,1661,4.1,Kabupaten Gunung Kidul,RM. Jodhang Jowo,alam daging estetik fasilitas kenyamanan makanan pemandangan_indah ramah_anak tempat_makan tempat_wisata
+1666,1666,4.7,Kabupaten Bantul,Resto Pawon Mbok Surip,ramah_anak tempat_makan
+1667,1667,4.1,Kabupaten Gunung Kidul,RM BMKS Bu Agus,fasilitas
+1668,1668,4.5,Kabupaten Gunung Kidul,RM DRINI INDAH Dan Aula,alam daging fasilitas lokasi makanan outdoor pantai pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1672,1672,4.9,Kabupaten Gunung Kidul,RM Widya Sari Bu Supilah,alam lokasi makanan outdoor pantai pedas pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1674,1674,4.8,Kabupaten Gunung Kidul,Rumah Makan Bantar Angin,fasilitas makanan pedas pelayanan ramah_anak tempat_makan
+1680,1680,4.5,Kabupaten Sleman,Soto Ayam Simbok II,edukasi makanan makanan_hari pagi_hari ramah_anak sepeda_motor tempat_makan
+1681,1681,4.4,Kabupaten Sleman,Rumah Makan Bonda Merapi,fasilitas kuliner makanan pelayanan ramah_anak tempat_makan transportasi
+1683,1683,5.0,Kabupaten Bantul,Rumah Makan Dapur Cemara,fasilitas makanan pelayanan ramah_anak tempat_makan
+1688,1688,3.9,Kabupaten Kulon Progo,Rumah Makan Gerbang Trisik,alam fasilitas lokasi makanan outdoor pantai pemandangan_alam relaksasi tempat_bermain tempat_makan tempat_wisata
+1689,1689,5.0,Kabupaten Gunung Kidul,Rumah Makan Gunungkidul (RMG),tempat_makan
+1692,1692,4.5,Kota Jakarta Pusat,Rumah Makan Ibu Ida,bersejarah daging makanan tempat_ibadah tempat_makan tempat_wisata
+1699,1699,4.2,Kota Jakarta Pusat,Rumah Makan Jasa Bundo,daging makanan makanan_tradisional pedas tempat_makan
+1705,1705,4.1,Kota Jakarta Selatan,Rumah Makan Manado Rasaroa,daging makanan pedas tempat_makan
+1706,1706,4.0,Kabupaten Bantul,Rumah Makan Manggar Manding,daging fasilitas lokasi makanan ramah_anak tempat_makan
+1708,1708,4.5,Kota Jakarta Timur,Rumah Makan Marannu,fasilitas lokasi makanan tempat_makan
+1711,1711,4.5,Kota Jakarta Pusat,Rumah Makan Medan Baru,daging makanan
+1714,1714,4.3,Kota Jakarta Pusat,Rumah Makan Manado Tinoor,makanan tempat_makan
+1715,1715,4.5,Kabupaten Sleman,Gudeg Yu Djum,fasilitas makanan makanan_tradisional pelayanan ramah_anak tempat_makan tradisional
+1716,1716,4.5,Kota Jakarta Barat,Rumah Makan MasMurni,fasilitas lokasi ramah_anak
+1724,1724,4.1,Kabupaten Kulon Progo,Rumah Makan Padang Murah Meriah,daging fasilitas makanan pelayanan tempat_makan
+1725,1725,4.4,Kota Jakarta Selatan,Rumah Makan Padang Saiyo Juo,fasilitas makanan makanan_tradisional tempat_makan
+1727,1727,4.5,Kabupaten Sleman,"Mie Ayam & Bakso Pak Marno ""MERDEKA""",fasilitas hemat_biaya makanan sepeda_motor tempat_makan
+1731,1731,3.9,Kabupaten Kulon Progo,Rumah Makan Nggirli,lokasi makanan pertemuan
+1732,1732,4.3,Kabupaten Gunung Kidul,Rumah Makan Padang Giwangan,fasilitas kenyamanan makanan pedas pelayanan tempat_makan
+1736,1736,4.4,Kabupaten Bantul,"Rumah Makan Padang "" Sendowo """,fasilitas pedas pelayanan tempat_makan
+1740,1740,4.5,Kota Jakarta Barat,Rumah Makan Pondok Minang,fasilitas makanan makanan_tradisional sepeda_motor tempat_makan
+1741,1741,4.4,Kota Jakarta Barat,Rumah Makan Putra Kembar Rawa Lele,makanan tempat_makan
+1746,1746,4.0,Kabupaten Sleman,Rumah Makan Pondok Laras,fasilitas pertemuan ramah_anak tempat_makan
+1749,1749,4.2,Kabupaten Gunung Kidul,RUMAH MAKAN SAUNG ROMANSA,daging makanan tempat_makan
+1751,1751,4.4,Kota Jakarta Timur,Rumah Makan Siang Malam,lokasi makanan makanan_tradisional tempat_makan
+1760,1760,4.5,Kabupaten Bantul,Sambel Welut Pak Sabar,kuliner pedas tempat_makan
+1763,1763,5.0,Kabupaten Gunung Kidul,Rumah makan turi ayu,daging makanan tempat_makan
+1767,1767,4.4,Kota Jakarta Pusat,Salero Jumbo,daging fasilitas kuliner makanan makanan_hari minuman pelayanan smoking
+1771,1771,4.5,Kota Jakarta Selatan,Santiga Seafood (From Benhil),daging makanan
+1773,1773,4.4,Kota Jakarta Barat,Saoenk Kito Daan Mogot,fasilitas kenyamanan makanan tempat_makan
+1774,1774,4.3,Kabupaten Sleman,Kopi Gajah Terdekat,aktivitas_air kenyamanan lokasi makanan pertemuan relaksasi tempat_makan tempat_wisata
+1778,1778,4.4,Kota Jakarta Barat,Saoenk Kito,fasilitas makanan minuman pelayanan ramah_anak tempat_makan
+1781,1781,4.9,Kabupaten Bantul,Sate Bakoh Pusat (Kuliner Sate Domba Muda),makanan tempat_makan
+1784,1784,4.3,Kabupaten Kulon Progo,Sate Kambing Mbah Margo 1,daging makanan tempat_makan
+1785,1785,4.4,Kabupaten Bantul,Sate Kambing Pak Santoso,fasilitas makanan pelayanan tempat_makan
+1786,1786,4.5,Kabupaten Sleman,Warung pesisir,minuman pedas ramah_anak tempat_makan
+1788,1788,4.2,Kota Jakarta Pusat,Sate Kambing Jaya Agung,malam_hari
+1789,1789,4.1,Kabupaten Bantul,Sate Kambing Murni,makanan
+1790,1790,4.4,Kabupaten Gunung Kidul,Sate Kambing Pak Turut,daging kuliner makanan makanan_hari tempat_makan
+1792,1792,4.3,Kabupaten Bantul,Sate Kambing Sor Talok,makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+1793,1793,4.4,Kabupaten Bantul,Sate Klathak Pak Pong Pusat,kuliner makanan outdoor pemandangan_alam tempat_bermain tempat_wisata
+1794,1794,4.3,Kabupaten Bantul,Sate Mas Rangga,kebersihan makanan tempat_makan
+1795,1795,4.4,Kota Jakarta Pusat,"Sate & Seafood Senayan, Kebon Sirih",kenyamanan pertemuan smoking
+1796,1796,4.2,Kota Jakarta Timur,Satoru Jakarta,fasilitas makanan_jepang
+1797,1797,4.5,Kabupaten Sleman,Rumah Makan Suka-Suka,daging edukasi kuliner makanan pedas tempat_makan
+1798,1798,4.8,Kabupaten Sleman,AYAM GORENG LESEHAN PAK DIN,edukasi hemat_biaya makanan tempat_makan
+1799,1799,4.5,Kabupaten Sleman,Kepiting Cak Gundul,makanan outdoor pedas pemandangan_alam relaksasi tempat_bermain tempat_makan tempat_wisata
+1800,1800,4.7,Kabupaten Sleman,Warung Makan Pak Budi,indoor makanan tempat_makan
+1802,1802,4.4,Kota Jakarta Barat,Saung Kay,fasilitas makanan malam_hari musik pelayanan ramah_anak rekreasi relaksasi tempat_bermain tempat_main tempat_makan tempat_wisata
+1806,1806,4.5,Kabupaten Sleman,Penyetan Ecek Hemek,kuliner makanan pedas tempat_makan
+1808,1808,4.6,Kota Jakarta Selatan,Sawaregmoe Resto,bersejarah makanan ramah_anak tempat_makan tempat_wisata
+1812,1812,4.3,Kabupaten Sleman,Waroeng Mak Le Jakal,fasilitas makanan pedas tempat_makan
+1815,1815,3.7,Kota Jakarta Pusat,Seafood Dewi,makanan tempat_makan
+1827,1827,4.5,Kota Jakarta Selatan,Selasih by Dapur Mamih,kuliner makanan_hari
+1831,1831,4.5,Kabupaten Sleman,Warung Makan Pak Purnomo,makanan minuman tempat_makan
+1832,1832,4.4,Kota Jakarta Barat,Sentosa Seafood,daging fasilitas kebersihan makanan pelayanan
+1833,1833,4.5,Kota Jakarta Selatan,Seribu Rasa Lippo Mall Kemang,daging makanan minuman pertemuan ramah_anak tempat_makan
+1835,1835,4.5,Kabupaten Gunung Kidul,soto lenthuk pak ahmad,alam fasilitas lokasi outdoor pantai pemandangan_alam tempat_bermain tempat_wisata
+1837,1837,4.2,Kabupaten Sleman,"Seafood & Ikan Bakar ""Pak Gix""",daging fasilitas makanan pedas tempat_makan
+1839,1839,4.6,Kabupaten Sleman,Resto pempek syafa,makanan
+1843,1843,4.5,Kabupaten Sleman,Angkringan Pak No,makanan tempat_makan
+1844,1844,4.7,Kabupaten Sleman,Gudeg Basah Dewi,pagi_hari
+1846,1846,4.6,Kota Jakarta Pusat,Seribu Rasa Menteng,pertemuan
+1849,1849,4.4,Kota Jakarta Selatan,Siku Dharmawangsa,makanan pertemuan ramah_anak ramah_anak_anak rekreasi tempat_makan
+1850,1850,4.3,Kota Jakarta Utara,Simply Thai - Green Lake City,fasilitas makanan pelayanan tempat_makan
+1852,1852,4.5,Kabupaten Sleman,Indochine Bistro,kuliner lokasi makanan
+1864,1864,4.3,Kota Jakarta Selatan,Smarapura Traditional Resto,makanan relaksasi
+1866,1866,4.1,Kota Jakarta Pusat,Solaria - Stasiun Kereta Api Gambir,fasilitas kenyamanan makanan pelayanan tempat_makan
+1867,1867,4.1,Kota Jakarta Selatan,Sopo Ngiro Japanese Food,kemah makanan_jepang
+1869,1869,4.5,Kota Jakarta Pusat,Sop Buntut Cut Meutia,bersejarah makanan tempat_ibadah tempat_makan tempat_wisata
+1872,1872,4.4,Kota Jakarta Barat,Sop Sapi Gosyen,fasilitas makanan pelayanan tempat_makan
+1873,1873,4.3,Kota Jakarta Selatan,SORE Izakaya Fatmawati,outdoor pemandangan_alam tempat_bermain tempat_wisata
+1874,1874,4.4,Kota Jakarta Pusat,Soto Ayam Ambengan Pak Sadi,kuliner makanan makanan_hari makanan_tradisional tempat_makan tradisional
+1875,1875,4.3,Kabupaten Kulon Progo,Soto Bathok Wulung,kenyamanan makanan minuman outdoor pemandangan_alam tempat_bermain tempat_makan
+1877,1877,4.6,Kabupaten Sleman,Pawon Mbah Gito,alam lokasi minuman outdoor pemandangan pemandangan_alam tempat_bermain tempat_ibadah tempat_wisata
+1880,1880,5.0,Kota Jakarta Timur,Sop Tiga Saudara (Cabang Rawamangun),makanan tempat_makan
+1881,1881,4.4,Kota Jakarta Selatan,Soto Ayam Ambengan Cak-Di,fasilitas kuliner lokasi makanan makanan_hari ramah_anak tempat_makan
+1882,1882,4.7,Kabupaten Bantul,Soto Bakso Pak Rohman,fasilitas pelayanan
+1883,1883,4.6,Kota Jakarta Barat,Soto Betawi Pak Hasan 909,daging makanan
+1885,1885,4.4,Kota Jakarta Timur,Soto Betawi Rawamangun,makanan tempat_makan
+1887,1887,4.4,Kota Jakarta Selatan,Soto Kudus Blok M Tebet,fasilitas tempat_makan
+1888,1888,4.5,Kota Jakarta Selatan,Sperta Restaurant,indoor
+1894,1894,4.1,Kabupaten Bantul,Rumah Makan Rata-Rata,fasilitas makanan makanan_hari pagi_hari pedas tempat_makan
+1896,1896,4.3,Kota Jakarta Selatan,Sulawesi@Kemang,daging fasilitas makanan tempat_makan
+1898,1898,4.4,Kota Jakarta Barat,Sushi Corner,fasilitas makanan_jepang minuman pelayanan
+1901,1901,4.5,Kabupaten Gunung Kidul,Tahu Gimbal Mba Susi,makanan
+1903,1903,4.3,Kabupaten Bantul,Sumir 3 dika,daging edukasi kuliner makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+1913,1913,4.4,Kota Jakarta Barat,Talaga Sampireun - Puri,daging fasilitas makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+1916,1916,4.7,Kabupaten Sleman,Animalika Society Space,kuliner minuman
+1919,1919,4.2,Kabupaten Sleman,QUA-LI Noodle & Rice Pakuwon Mall Jogja,daging fasilitas makanan minuman pelayanan ramah_anak smoking tempat_makan
+1920,1920,4.3,Kota Jakarta Selatan,Tamani Kids Cafe,fasilitas makanan ramah_anak ramah_anak_anak rekreasi tempat_makan
+1928,1928,4.6,Kabupaten Sleman,Lotek Via,fasilitas lokasi
+1946,1946,4.8,Kabupaten Sleman,Balungan Bar Bar Waroeng Mbah Djo,makanan minuman outdoor pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+1947,1947,4.8,Kabupaten Sleman,Radja Gulai Kepala Ikan,daging makanan
+1966,1966,4.3,Kota Jakarta Barat,Tea Garden,fasilitas halal makanan makanan_chinese pelayanan tempat_makan
+1967,1967,4.6,Kabupaten Sleman,Rumkul Ateeya,edukasi kuliner makanan tempat_makan
+1972,1972,4.3,Kabupaten Gunung Kidul,Berkah Dawet,kuliner lokasi makanan minuman pedas tempat_makan
+1977,1977,4.5,Kabupaten Sleman,Suwatu By Mil & Bay,bersejarah gunung makanan outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata tradisional
+1979,1979,4.7,Kabupaten Gunung Kidul,Kopi Wono Angkringan Mbah Dullah,indoor malam_hari
+1986,1986,4.5,Kabupaten Gunung Kidul,Mie Ayam Mantap Pak Muji,fasilitas makanan pelayanan tempat_makan
+1987,1987,4.6,Kabupaten Gunung Kidul,Omah Bonsai Cafe,fasilitas minuman pelayanan ramah_anak
+1989,1989,4.3,Kabupaten Sleman,Rumah Makan RATA RATA,edukasi fasilitas kuliner makanan makanan_hari ramah_anak tempat_makan
+1994,1994,3.8,Kabupaten Sleman,Resto & Catering - Joglo Pari Sewu,outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata
+2009,2009,4.3,Kabupaten Gunung Kidul,Resto Bosskid Gunungkidul,alam estetik fasilitas foto fotogenik lokasi outdoor pantai pelayanan pemandangan pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+2012,2012,4.1,Kabupaten Sleman,Resto Kampoengku,fasilitas kemah musik pelayanan ramah_anak tempat_makan
+2020,2020,4.4,Kabupaten Gunung Kidul,RM Seger Waras,daging fasilitas lokasi makanan
+2024,2024,4.6,Kabupaten Gunung Kidul,Rumah Makan Mbah Warno Coto Makasar,daging fasilitas indoor malam_hari
+2025,2025,4.5,Kabupaten Gunung Kidul,Rumah Makan Padang Putra Bundo,lokasi
+2030,2030,4.6,Kabupaten Gunung Kidul,Soto Kembang Sore & Bakmi Condhong Raos,hemat_biaya makanan tempat_makan
+2031,2031,4.2,Kabupaten Sleman,Rosella Easy Dining,fasilitas indoor outdoor pelayanan pemandangan_alam tempat_bermain tempat_makan
+2037,2037,4.3,Kabupaten Sleman,Resto Joglo Asri,bersejarah fasilitas kenyamanan makanan pertemuan tempat_ibadah tempat_makan tempat_wisata
+2038,2038,4.7,Kota Jakarta Barat,Thai Street - Green Sedayu Mall,fasilitas pelayanan
+2039,2039,4.5,Kabupaten Sleman,"Capcay Colombo ""Pak Harno""",kuliner makanan malam_hari minuman tempat_makan
+2041,2041,4.4,Kota Jakarta Barat,The Bale Daan Mogot,fasilitas indoor kenyamanan pelayanan pertemuan ramah_anak
+2045,2045,4.6,Kabupaten Sleman,Bakso dan Mie Ayam Pak Indro,minuman
+2048,2048,4.5,Kabupaten Sleman,Kupat Tahu Kancilan,fasilitas hemat_biaya makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+2050,2050,4.5,Kabupaten Sleman,Rumah Makan Padang Sederhana Jogja,daging makanan pertemuan
+2052,2052,4.4,Kabupaten Sleman,Waroeng Nyamleng Jogja,lokasi makanan outdoor pemandangan_alam relaksasi tempat_bermain tempat_makan tempat_wisata
+2053,2053,4.5,Kabupaten Sleman,The Westlake Resto,kenyamanan makanan rekreasi relaksasi tempat_bermain tempat_makan tempat_piknik tempat_wisata
+2054,2054,4.5,Kabupaten Bantul,Thiwul Ayu Mbok Sum,alam makanan outdoor pemandangan_alam tempat_bermain tempat_makan tempat_wisata
+2056,2056,4.4,Kota Jakarta Pusat,Tjikinii Lima,pertemuan ramah_anak smoking
+2059,2059,4.5,Kabupaten Sleman,The Waroeng of Raminten,aktivitas_air kuliner tempat_wisata
+2060,2060,4.5,Kota Jakarta Selatan,Thirty Three By Mirasari Restaurant,fasilitas kuliner makanan minuman pertemuan ramah_anak tempat_makan
+2063,2063,4.6,Kota Jakarta Selatan,Tokyo Skipjack,makanan_jepang
+2064,2064,4.6,Kabupaten Sleman,Jejamuran,aktivitas_air bersejarah makanan tempat_wisata tradisional
+2066,2066,4.4,Kabupaten Sleman,Cengkir Heritage Resto And Coffee,gunung lokasi makanan makanan_tradisional tempat_makan tradisional
+2069,2069,4.5,Kabupaten Sleman,Kupat Gule Bang Doel,daging makanan makanan_hari pagi_hari pedas tempat_makan
+2070,2070,4.7,Kabupaten Sleman,Lesehan Mas Jan,makanan pedas tempat_makan
+2074,2074,4.4,Kota Jakarta Pusat,Warnong Kebon Sirih,fasilitas hemat_biaya lokasi makanan pertemuan tempat_makan
+2080,2080,4.5,Kota Jakarta Pusat,Waha Kitchen,indoor minuman tempat_makan tempat_ngumpul
+2084,2084,4.4,Kabupaten Sleman,Waroeng,fasilitas indoor malam_hari outdoor pemandangan_alam ramah_anak tempat_bermain tempat_makan tempat_ngumpul tempat_wisata
+2085,2085,4.6,Kabupaten Gunung Kidul,Waroeng Dhahar PAWONE MBAH SECHO,indoor malam_hari tempat_makan
+2086,2086,4.6,Kota Jakarta Pusat,Waroeng hijau (rumah makan ),makanan tempat_makan
+2092,2092,4.5,Kabupaten Bantul,Waroeng Omah Sawah,hemat_biaya lokasi makanan makanan_tradisional pertemuan tradisional
+2094,2094,4.8,Kabupaten Sleman,Mangut Yu Harni,fasilitas makanan tempat_makan
+2095,2095,4.6,Kota Jakarta Selatan,Waroeng Tiki Taka,makanan pedas tempat_makan
+2097,2097,4.4,Kabupaten Bantul,Waroeng Pohon Omah Sawah,alam kenyamanan outdoor pemandangan_alam pemandangan_indah pertemuan ramah_anak tempat_bermain tempat_wisata
+2099,2099,4.4,Kota Jakarta Barat,"Waroeng Spesial Sambal ""SS"" Tanjung Duren",kuliner makanan pedas tempat_makan
+2102,2102,4.2,Kota Jakarta Utara,Waroenk Kito Green Garden,fasilitas pelayanan
+2105,2105,4.3,Kota Jakarta Barat,Waroenk Kito semanan,kuliner makanan tempat_makan
+2107,2107,4.3,Kabupaten Bantul,Warung Arum Manis / Nasi Goreng Thakthuk Mbak ASIH,kuliner
+2110,2110,4.2,Kabupaten Sleman,Moelih nDeso,aktivitas_air lokasi ramah_anak rekreasi relaksasi tempat_bermain tempat_wisata
+2113,2113,4.6,Kabupaten Bantul,Warunge Simak,edukasi makanan ramah_anak tempat_makan
+2114,2114,4.3,Kabupaten Sleman,Warung Angkring Lesehan,makanan tempat_makan
+2117,2117,4.6,Kota Jakarta Barat,Warung Bemo,fasilitas indoor kuliner makanan malam_hari minuman pedas pelayanan ramah_anak tempat_makan
+2118,2118,4.6,Kota Jakarta Utara,Warung Betawi H. Ibeh,fasilitas kuliner makanan makanan_hari ramah_anak tempat_makan
+2119,2119,4.3,Kabupaten Bantul,Warung Enaak,fasilitas makanan_western ramah_anak smoking
+2122,2122,4.4,Kota Jakarta Selatan,Warung Bu Vesti Barito,daging fasilitas kuliner makanan pedas tempat_makan
+2124,2124,4.4,Kota Jakarta Pusat,Warung Korea Pop,kuliner
+2128,2128,4.3,Kabupaten Sleman,Warung Kulinan,estetik foto fotogenik outdoor pagi_hari pelayanan pemandangan_alam tempat_bermain
+2130,2130,4.6,Kota Jakarta Barat,Warung Lesehan Jawa Timur Lumpang Emas,makanan pedas tempat_makan
+2131,2131,4.2,Kabupaten Gunung Kidul,Warung Lesehan Pak Kirun,alam fasilitas indoor lokasi malam_hari musik outdoor pemandangan_alam tempat_bermain tempat_wisata transportasi
+2134,2134,4.2,Kabupaten Sleman,ANGKRINGAN GADJAH,edukasi kuliner makanan relaksasi tempat_makan
+2136,2136,4.8,Kabupaten Bantul,Warung Lesehan Mas Daffa,makanan tempat_makan
+2138,2138,4.4,Kabupaten Gunung Kidul,"Warung Lesehan ""Sugarni""",kuliner malam_hari
+2140,2140,4.3,Kabupaten Sleman,Warung Makan Angger Lesehan dan Soto Ayam Jeng Nunuk,makanan malam_hari pedas
+2142,2142,3.9,Kabupaten Kulon Progo,Warung Makan Beong & Aneka Ikan mBah Juri,fasilitas makanan tempat_makan
+2145,2145,4.6,Kabupaten Sleman,Warung Makan E 7,makanan pagi_hari
+2146,2146,4.6,Kabupaten Kulon Progo,Warung Makan Gudeg Yu Sum,makanan pedas
+2149,2149,4.3,Kabupaten Bantul,Warung Makan Barokah,makanan makanan_hari pagi_hari ramah_anak tempat_makan
+2154,2154,4.3,Kabupaten Kulon Progo,Warung Makan Gule Sawah,fasilitas lokasi makanan minuman pelayanan tempat_makan
+2157,2157,4.2,Kabupaten Kulon Progo,"Warung Makan ""IWAK PROGO""",estetik fasilitas foto fotogenik makanan outdoor pelayanan pemandangan pemandangan_alam relaksasi tempat_bermain tempat_wisata
+2167,2167,4.8,Kabupaten Sleman,Warung Makan Moro Rement Pak Gun,daging makanan
+2177,2177,4.4,Kabupaten Gunung Kidul,Warung Makan Sari Roso,makanan tempat_makan
+2180,2180,4.4,Kabupaten Bantul,Warung Makan Sego Godog Mbok Yah,kuliner makanan tempat_makan
+2181,2181,4.9,Kabupaten Bantul,Warung Mbah Kromo Pasar Bantul,makanan
+2185,2185,3.8,Kabupaten Gunung Kidul,Warung mbah wir,makanan tempat_makan
+2186,2186,4.2,Kota Jakarta Selatan,Warung Nagih,kenyamanan malam_hari musik
+2190,2190,4.4,Kabupaten Sleman,Rumah Makan Mbok Berek Garden,makanan tempat_makan
+2192,2192,4.5,Kota Jakarta Selatan,Warung MJS,makanan makanan_tradisional musik tempat_makan tradisional
+2195,2195,4.6,Kota Jakarta Barat,Warung Nasi Ojolali H.Mukmin,makanan
+2196,2196,4.3,Kota Jakarta Pusat,Warung Ngalam,fasilitas kuliner makanan_hari pelayanan
+2197,2197,4.3,Kota Jakarta Selatan,Warung Pedes,pedas ramah_anak tempat_makan
+2199,2199,4.3,Kota Jakarta Selatan,WARUNG PASTA x LOCARASA Kemang,kenyamanan makanan makanan_western pertemuan smoking
+2201,2201,4.5,Kabupaten Bantul,Warung Prasmanan Lawasan,fasilitas lokasi makanan makanan_hari makanan_tradisional pagi_hari pedas tempat_makan tradisional
+2203,2203,4.5,Kota Jakarta Pusat,Warung Sate Tongseng Sri Rejeki,kuliner makanan makanan_hari minuman pedas tempat_makan
+2204,2204,4.5,Kabupaten Gunung Kidul,Warung Sego Abang Gunung Kidul,fasilitas makanan makanan_tradisional pertemuan tempat_makan tradisional
+2206,2206,4.4,Kota Jakarta Barat,Warung Rawit,minuman ramah_anak
+2208,2208,4.5,Kabupaten Sleman,Sasanti Restaurant,makanan makanan_jepang malam_hari musik tempat_makan
+2209,2209,4.0,Kabupaten Bantul,Warung Sate Kambing Mbak Resty,makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+2211,2211,4.5,Kabupaten Bantul,Warung Sederhana Pak Warto,kuliner makanan tempat_makan
+2212,2212,4.3,Kabupaten Gunung Kidul,Warung Sego Abang Pari Gogo,daging makanan makanan_tradisional tempat_makan tradisional
+2214,2214,4.5,Kabupaten Gunung Kidul,Warung Simbok,alam daging fasilitas lokasi makanan outdoor pantai pemandangan_alam ramah_anak tempat_bermain tempat_wisata
+2215,2215,4.6,Kabupaten Gunung Kidul,"Warung Soto ""Pak Yo""",makanan makanan_hari pagi_hari tempat_makan
+2216,2216,4.4,Kota Jakarta Barat,Warung Tekko,makanan minuman pedas ramah_anak tempat_makan
+2217,2217,4.4,Kabupaten Bantul,Warung Tengah Sawah - WTS,kenyamanan kuliner makanan tempat_makan
+2218,2218,4.4,Kabupaten Bantul,Warung Tongseng Ayam Sudimoro,daging fasilitas kuliner makanan pelayanan
+2222,2222,4.4,Kota Jakarta Pusat,Warung Soto Ceker & Ranjau Pak Gendut,kemah makanan malam_hari
+2223,2223,4.5,Kabupaten Bantul,Warung Soto Rejeki,fasilitas makanan tempat_makan
+2224,2224,4.2,Kota Jakarta Barat,Warung Tekko Daan Mogot,makanan pertemuan ramah_anak tempat_makan
+2226,2226,4.3,Kota Jakarta Selatan,Warung Teteh Nasi Liwet,daging makanan ramah_anak tempat_makan
+2227,2227,4.5,Kota Jakarta Barat,Warung Tongseng Joyo Samino 2,daging makanan tempat_makan
+2228,2228,4.1,Kota Jakarta Selatan,Warunk WOW KWB Jakarta Selatan,malam_hari pelayanan
+2229,2229,4.2,Kabupaten Sleman,Warung Watoe Gadjah,makanan outdoor pemandangan_alam rekreasi tempat_bermain tempat_main tempat_makan tempat_wisata
+2234,2234,4.3,Kabupaten Bantul,White Rose Bakery & Cakes,fasilitas indoor kenyamanan malam_hari tempat_makan
+2236,2236,4.6,Kabupaten Bantul,wrgpakdhe.jogja Ayam Betutu,hemat_biaya makanan malam_hari pedas tempat_makan
+2256,2256,4.8,Kabupaten Bantul,Yabbiekayu Restaurant,alam lokasi makanan tempat_makan
+2262,2262,4.3,Kota Jakarta Utara,XYZ DISTRICT,fasilitas malam_hari relaksasi
+2263,2263,4.7,Kota Jakarta Selatan,Yakinikuya,fasilitas
+2264,2264,4.7,Kota Jakarta Selatan,YinYang DimSum,makanan_chinese
+2265,2265,4.4,Kota Jakarta Barat,Yell-O Steak House,ramah_anak
+2436,2436,4.7,Kabupaten Kulon Progo,Dadap Sumilir,estetik foto fotogenik lokasi outdoor pemandangan pemandangan_alam tempat_bermain tempat_wisata
+2477,2477,4.5,Kota Yogyakarta,Warung Brongkos Handayani,minuman
+2499,2499,4.4,Kabupaten Kepulauan Seribu,Pondok Sambel Coet Barokah,daging fasilitas kebersihan makanan pelayanan tempat_makan
+2502,2502,4.5,Kabupaten Kepulauan Seribu,Xing Zhuan Dimsum Taman Surya,makanan tempat_makan
+2504,2504,4.3,Kabupaten Kepulauan Seribu,Waroeng Terras Pramuka,lokasi outdoor pemandangan_alam tempat_wisata
+2506,2506,4.6,Kabupaten Kepulauan Seribu,Wandi Putra Samba 2,makanan pedas tempat_makan
+2507,2507,4.3,Kabupaten Kepulauan Seribu,Gubug Makan Mang Engking Soetta,daging fasilitas makanan pelayanan ramah_anak tempat_makan
+2515,2515,4.1,Kota Yogyakarta,Bakmi & Bajigur Kadin Mbah Hj. Karto Pak Rochadi,kegiatan_rekreasi malam_hari musik tempat_main
+2520,2520,4.3,Kota Yogyakarta,Gudeg Yu Djum,daging kuliner makanan rumah_makan tempat_makan
+2522,2522,4.6,Kota Yogyakarta,R&B Grill Yogyakarta,kenyamanan makanan
+2524,2524,4.3,Kabupaten Gunung Kidul,The Manglung View & Resto,estetik foto fotogenik outdoor pemandangan pemandangan_alam relaksasi tempat_bermain tempat_wisata
+2527,2527,4.4,Kota Yogyakarta,Richeese Factory,bersejarah pedas tempat_makan
+2529,2529,4.4,Kabupaten Sleman,Waroeng Belik,hemat_biaya lokasi makanan outdoor pemandangan_alam tempat_bermain tempat_makan
+2538,2538,4.5,Kota Yogyakarta,Sop Buntut Pakualaman & Lesehan 50,kuliner makanan tempat_makan
+2550,2550,4.6,Kota Yogyakarta,Gudeg Mbok Lindu,indoor makanan pagi_hari tempat_makan
+2552,2552,4.4,Kota Yogyakarta,Soto Ayam Pak Gareng,makanan pagi_hari tempat_makan
+2553,2553,4.6,Kota Jakarta Pusat,Tugu Kuntskring Palais Jakarta,bersejarah indoor tempat_bersejarah tempat_wisata
+2559,2559,4.3,Kota Yogyakarta,Warung Sate Kambing & Tongseng Pak Amat,daging fasilitas makanan malam_hari
+2565,2565,4.4,Kota Yogyakarta,Sekar Kedhaton Restaurant,makanan_tradisional tradisional transportasi
+2568,2568,4.4,Kota Yogyakarta,Lesehan SBTB Terang Bulan malioboro,kuliner makanan malam_hari musik pedas tempat_makan
+2569,2569,4.5,Kota Yogyakarta,Ayam Goreng Bu Tini,daging makanan
+2571,2571,4.2,Kota Yogyakarta,ROEMI Xtraordinary Ice Cream,daging edukasi makanan tempat_makan
+2573,2573,4.3,Kota Yogyakarta,Sate Ayam Pak Kromo,fasilitas makanan tempat_makan
+2577,2577,4.6,Kota Yogyakarta,Sate Taichan Senayan Yogya,pelayanan
+2585,2585,4.5,Kota Yogyakarta,Gudeg Pawon,daging makanan pemandangan_indah rumah_makan tempat_wisata
+2586,2586,4.3,Kota Yogyakarta,Raminten Kitchen,bersejarah tradisional
+2588,2588,4.5,Kota Yogyakarta,The House Of Raminten,makanan tempat_makan
+2590,2590,4.3,Kota Yogyakarta,Restoran Gazebo Garden,fasilitas tempat_makan
+2592,2592,4.3,Kabupaten Sleman,Pondok Makan Pelem Golek,makanan outdoor pemandangan_alam pertemuan relaksasi tempat_bermain tempat_makan tempat_wisata
+2593,2593,4.3,Kota Yogyakarta,Rumah Makan Padang Aroma Baru,daging makanan tempat_makan
+2595,2595,4.3,Kota Yogyakarta,Special Bakmi & Nasi Goreng Pak Pele,daging makanan tempat_wisata
+2596,2596,4.4,Kota Yogyakarta,Anggrek Executive Lounge Stasiun Tugu Yogyakarta,fasilitas indoor kenyamanan smoking tempat_ibadah tempat_makan transportasi
+2599,2599,4.4,Kota Yogyakarta,Mie Pelangi 88,makanan tempat_makan
+2601,2601,4.4,Kota Yogyakarta,Nasi Goreng Sapi Padmanaba,kemah
+2605,2605,4.6,Kota Yogyakarta,Lupis Mbah Satinem,makanan tempat_makan
+2609,2609,4.5,Kota Yogyakarta,Warung Mie Remaja,kuliner makanan tempat_makan
+2614,2614,4.4,Kota Yogyakarta,Restoran Bumbu Desa,fasilitas kenyamanan makanan makanan_tradisional pelayanan pertemuan tempat_makan tradisional
+2615,2615,4.4,Kota Yogyakarta,Lombok Idjo Diponegoro,makanan ramah_anak tempat_makan
+2617,2617,4.6,Kota Yogyakarta,Soto Ayam Pak Dalbe,hemat_biaya makanan pagi_hari tempat_makan
+2618,2618,4.4,Kota Yogyakarta,"Pecel ""Senggol"" Beringharjo",kuliner makanan pagi_hari tempat_makan
+2620,2620,4.6,Kota Yogyakarta,Soto Pites Mbah Galak,makanan makanan_hari pagi_hari pedas tempat_makan
+2621,2621,4.4,Kota Yogyakarta,Legend Coffee,edukasi kenyamanan pertemuan smoking
+2622,2622,4.2,Kota Yogyakarta,Superman Restaurant,tempat_makan
+2625,2625,4.6,Kota Yogyakarta,"Coto ""La-Capila""",edukasi makanan
+2629,2629,4.3,Kota Yogyakarta,Rumah Makan Soto Ayam 61,makanan pedas tempat_makan
+2632,2632,4.4,Kota Yogyakarta,Nasi Goreng Bringharjo,hemat_biaya tempat_makan
+2636,2636,4.4,Kota Yogyakarta,Omah Dhuwur Restaurant,alam bersejarah estetik kuliner makanan pemandangan_indah pertemuan tempat_makan tempat_wisata
+2640,2640,4.5,Kota Yogyakarta,Sate Ayam Podomoro,daging makanan
+2642,2642,4.5,Kota Yogyakarta,Yammie Ketandan,estetik foto fotogenik halal kuliner makanan tempat_makan
+2647,2647,4.4,Kota Yogyakarta,Sate Kere Pasar Beringharjo,makanan
+2648,2648,4.7,Kota Yogyakarta,Mie Kita Orang Taman Siswa,daging edukasi makanan pedas tempat_makan
+2652,2652,4.3,Kota Yogyakarta,Warung Makan Cak Koting,indoor pedas tempat_makan
+2654,2654,4.6,Kota Yogyakarta,Es Buah Gerjen Keraton Yogyakarta,minuman
+2655,2655,4.5,Kota Yogyakarta,Kebon Ndalem Coffee & Eatery,makanan
+2774,2774,4.5,Kota Jakarta Pusat,THAMRIN 10 Food & Creative Park,fasilitas malam_hari musik
+2880,2880,4.4,Kota Jakarta Utara,A Hwa,fasilitas kuliner makanan tempat_makan
+2881,2881,4.3,Kota Jakarta Utara,Babi Guling Ko Made,kuliner makanan pedas tempat_makan
+2882,2882,4.0,Kota Jakarta Utara,"Babi Panggang TGR 99, Green Garden",makanan tempat_makan
+2883,2883,4.5,Kabupaten Kepulauan Seribu,Bakmi Bangka Air Mangkok,makanan tempat_makan
+2884,2884,4.5,Kabupaten Kepulauan Seribu,Bakmi Bangka & Chinese Food AFU,kuliner makanan pagi_hari pedas tempat_makan
+2885,2885,4.5,Kota Jakarta Barat,Bakmie Aloi,kuliner makanan tempat_makan
+2886,2886,4.5,Kota Jakarta Utara,Bakmie Nirwana,kuliner makanan pedas rumah tempat_makan
+2887,2887,4.5,Kota Jakarta Barat,Bubur Family,makanan tempat_makan
+2888,2888,4.5,Kota Jakarta Barat,Ezy Food,indoor makanan minuman pedas tempat_makan
+2889,2889,4.5,Kota Jakarta Utara,Grand Wingheng Hongkong Dimsum Muara Karang,fasilitas makanan pelayanan tempat_makan
+2890,2890,4.5,Kota Jakarta Utara,HoLiaw,makanan tempat_makan
+2891,2891,4.6,Kota Jakarta Utara,"Hoghock, Pantai Indah Kapuk",makanan tempat_makan
+2892,2892,4.7,Kota Jakarta Utara,Hoghock,makanan tempat_makan
+2893,2893,4.5,Kota Jakarta Utara,"Hoghock, Taman Ratu",makanan tempat_makan tempat_ngumpul
+2894,2894,4.5,Kota Yogyakarta,Makmur Restaurant,fasilitas makanan tempat_makan
+2895,2895,4.3,Kota Jakarta Utara,Mie Ateng,makanan tempat_makan
+2896,2896,4.4,Kota Jakarta Utara,Nasi Akwang Pluit,fasilitas makanan pedas tempat_makan
+2897,2897,4.5,Kota Jakarta Barat,Nasi Akwang Taman Palem,fasilitas makanan pedas pelayanan tempat_makan
+2898,2898,4.7,Kota Jakarta Pusat,Nasi Campur Kenanga,makanan tempat_makan
+2899,2899,4.4,Kota Jakarta Utara,Nasi Kari Aladin,fasilitas makanan tempat_makan
+2900,2900,4.7,Kabupaten Sleman,Rumah Makan 5 Serangkai Khas Karo,makanan minuman pedas tempat_makan
+2901,2901,4.3,Kota Jakarta Timur,Rumah Makan BPK Sinar Medan,fasilitas kuliner
+2902,2902,4.2,Kota Jakarta Utara,Rumah Makan BPK Nangin Milala,fasilitas makanan pedas pelayanan tempat_makan
+2903,2903,4.4,Kota Yogyakarta,Rumah Makan Babi PigGoo Kitchen,edukasi fasilitas makanan ramah_anak tempat_makan
+2904,2904,4.4,Kota Yogyakarta,Rumah Makan Bakso ITO,makanan tempat_makan
+2905,2905,4.5,Kota Yogyakarta,Rumah Makan Baru,kuliner makanan tempat_makan
+2906,2906,4.5,Kota Yogyakarta,Rumah Makan Lie Djiong,makanan malam_hari musik tempat_makan
+2907,2907,4.4,Kota Jakarta Utara,Samcan Goreng Epenk Muara Karang,makanan tempat_makan
+2908,2908,4.2,Kota Jakarta Barat,Sei'ra - Makanan Khas NTT,makanan pedas tempat_makan
+2909,2909,4.6,Kota Jakarta Utara,Wan Tan Mie Asam,makanan tempat_makan
+2910,2910,4.5,Kota Yogyakarta,Warung Buto,fasilitas makanan tempat_makan
+2912,2912,4.5,Kabupaten Sleman,Bakmi Jawa Pak Kuncung,hemat_biaya indoor kuliner makanan tempat_makan
+2916,2916,4.7,Kota Yogyakarta,Kedai Kebun Forum,estetik indoor kegiatan_rekreasi makanan pemandangan_indah relaksasi tempat_makan
+2919,2919,4.6,Kabupaten Bantul,Lesehan Pak Bowo,kuliner makanan pedas
+2924,2924,4.6,Kabupaten Gunung Kidul,Pawon Joglo,tempat_makan
+2925,2925,4.4,Kabupaten Gunung Kidul,RM Kampoeng Lobster,alam daging fasilitas lokasi makanan outdoor pantai pedas pelayanan pemandangan_alam tempat_bermain tempat_wisata
+2926,2926,4.5,Kabupaten Bantul,Rumah Makan Padang Narendra Grojogan,fasilitas kuliner makanan_hari pelayanan tempat_makan
+2927,2927,4.7,Kota Yogyakarta,Sate Ayam Tukangan,makanan tempat_makan
+2928,2928,4.4,Kabupaten Bantul,Warung Makan Singgah Selalu,fasilitas makanan pelayanan tempat_makan
+2931,2931,3.8,Kota Yogyakarta,Angkringan Gareng Petruk,makanan_tradisional tempat_makan tradisional
