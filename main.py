@@ -84,13 +84,14 @@ def get_recommendation_rest_cosine(city: str, user_preferences: List[str]):
     k = 0
     top_k = 10
     top_similar_places = []
+    resto_content_lst =[]
     for index in sorted_indices:
 
         if k >= top_k:
             break
         
-        place_id = resto_content_based_data.iloc[index.numpy()].id
-        place = dfs[dfs['id']==place_id]
+        name = resto_content_based_data.iloc[index.numpy()]['name']
+        place = dfs[dfs['name']==name]
         if (place.city == city).all():
             top_similar_places.append(place)
             k += 1
@@ -100,7 +101,7 @@ def get_recommendation_rest_cosine(city: str, user_preferences: List[str]):
 def combine_dataframes(df_list):
     combined_df = pd.DataFrame()
     for df in df_list:
-        combined_df = combined_df.append(df, ignore_index=True)
+        combined_df = pd.concat([combined_df, df], ignore_index=True)
     return combined_df
 
 def df_to_json(lst_row_df):
@@ -229,7 +230,6 @@ async def get_destination_recommendation(recommendationAttribute: DestinationRec
     recom_rest_model.drop(['Unnamed: 0'],axis=1,inplace=True)
     url_model_rest_lst = recom_rest_model.map_url.tolist()
 
-
     duplicates = [url for url in url_model_rest_lst if url in url_cosine_rest_lst]
 
     recom_rest_model = recom_rest_model[~recom_rest_model['map_url'].isin(duplicates)]
@@ -241,6 +241,8 @@ async def get_destination_recommendation(recommendationAttribute: DestinationRec
     json_recom_rest = []
     for df in recom_rest_lst:
         json_recom_rest.append(df.to_dict())
+
+    print(json_recom_rest)
 
     return {"result": 
         {
